@@ -1,0 +1,92 @@
+﻿[Script Info]
+Title: Silent Night
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
+Original Timing: BronyDee
+Original Translation: 轮回
+Original Editing: 包子 森林金雨
+Script Updated By: 傻猫 森林金雨
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Staff Credit,思源黑体 Heavy,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,0,1,30,30,10,1
+Style: Staff Credit (Boardless),思源黑体 Heavy,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Overlay Screen,Arial,20,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Chorus English 1st Line,Lucida Sans,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Chorus English 2nd Line,Lucida Sans,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Chorus Mandarin 1st Line,思源黑体 Heavy,80,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Chorus Mandarin 2nd Line,思源黑体 Heavy,80,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Fluttershy English 1st Line,Lucida Sans,60,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Fluttershy English 2nd Line,Lucida Sans,60,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Fluttershy Mandarin 1st Line,思源黑体 Heavy,80,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Fluttershy Mandarin 2nd Line,思源黑体 Heavy,80,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.02,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k33}{\be2}{\kf129}{\fad(250,250)}Si{\kf48}lent{\kf0} {\kf120}night{\kf272}
+Dialogue: 0,0:00:00.00,0:00:09.30,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k365}{\be2}{\kf0}{\kf125}{\fad(250,250)}Sta{\kf51}rry{\kf0} {\kf84}night{\kf0}
+Dialogue: 0,0:00:06.02,0:00:12.52,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf102}{\fad(250,250)}All{\kf11} {\kf34}is{\kf10} {\kf118}calm{\kf0}
+Dialogue: 0,0:00:09.30,0:00:19.06,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf104}{\fad(250,250)}All{\kf4} {\kf37}is{\kf15} {\kf110}bright{\kf0}
+Dialogue: 0,0:00:12.52,0:00:25.65,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf105}{\fad(250,250)}'Round{\kf12} {\kf36}the{\kf17} {\kf107}for{\kf41}est{\kf16}, {\kf75}par{\kf32}ents{\kf0} {\kf54}and{\kf0} {\kf139}young{\kf0}
+Dialogue: 0,0:00:19.06,0:00:32.23,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf110}{\fad(250,250)}Gen{\kf34}tle{\kf10} {\kf119}crea{\kf62}tures{\kf0} {\kf77}e{\kf82}very{\kf102}one{\kf0}
+Dialogue: 0,0:00:25.65,0:00:38.60,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf110}{\fad(250,250)}Home{\kf0} {\kf45}in{\kf9} {\kf116}bur{\kf41}row{\kf4}s{\kf3} {\kf248}dee{\kf31}p{\kf0}
+Dialogue: 0,0:00:32.23,0:00:41.92,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf54}{\fad(250,250)}Home{\kf0} {\kf50}in{\kf8} {\kf51}their {\kf114}bur{\kf44}rows{\kf6} {\kf172}deep{\kf0}
+Dialogue: 0,0:00:38.60,0:00:45.26,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf16}{\kf114}{\fad(250,250)}Si{\kf56}lent{\kf0} {\kf106}night{\kf0}
+Dialogue: 0,0:00:41.92,0:00:51.85,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf127}{\fad(250,250)}Sta{\kf42}rry{\kf0} {\kf132}night
+Dialogue: 0,0:00:45.26,0:00:57.86,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf101}{\fad(250,250)}Snow{\kf50}fall{\kf19} {\kf93}makes{\kf14} {\kf44}the{\kf15} {\kf99}mea{\kf42}dows{\kf20} {\kf108}white{\kf0}
+Dialogue: 0,0:00:51.85,0:01:04.97,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf110}{\fad(250,250)}Hud{\kf25}dle{\kf8} {\kf75}clo{\kf17}se{\kf7} {\kf21}to{\kf0} {\kf65}keep{\kf0} {\kf82}fa{\kf36}mi{\kf46}ly{\kf0} {\kf79}warm{\kf0}
+Dialogue: 0,0:00:57.86,0:01:11.48,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf3}{\kf52}{\fad(250,250)}To{\kf98}mor{\kf48}row{\kf10}'s{\kf0} {\kf93}dawn{\kf0} {\kf28}will{\kf0} {\kf58}bring{\kf0} {\kf105}Christ{\kf57}mas{\kf0} {\kf97}morn{\kf0}
+Dialogue: 0,0:01:04.97,0:01:17.83,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf106}{\fad(250,250)}Now{\kf0} {\kf60}the{\kf0} {\kf119}day{\kf0} {\kf43}is{\kf7} {\kf249}done{\kf0}
+Dialogue: 0,0:01:11.48,0:01:21.15,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf61}{\fad(250,250)}Now{\kf0} {\kf31}that{\kf14} {\kf62}the{\kf0} {\kf121}day{\kf0} {\kf35}is{\kf11} {\kf110}done{\kf0}
+Dialogue: 0,0:01:17.83,0:01:24.52,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf112}{\fad(250,250)}Si{\kf58}lent{\kf7} {\kf100}night{\kf0}
+Dialogue: 0,0:01:21.15,0:01:31.10,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf136}{\fad(250,250)}Sta{\kf47}rry{\kf0} {\kf99}night{\kf0}
+Dialogue: 0,0:01:24.52,0:01:37.35,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf101}{\fad(250,250)}Leav{\kf9}es{\kf0} {\kf49}are{\kf0} {\kf120}still{\kf0} {\kf18}and{\kf0} {\kf25}the{\kf8} {\kf101}moon{\kf9}'s{\kf0} {\kf43}in{\kf0} {\kf154}sight{\kf0}
+Dialogue: 0,0:01:31.10,0:01:44.08,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf104}{\fad(250,250)}Dream{\kf9}s{\kf0} {\kf38}are{\kf21} {\kf72}born{\kf8} {\kf27}as{\kf4} {\kf45}their{\kf5} {\kf94}eye{\kf12}s{\kf7} {\kf22}fall{\kf11} {\kf96}closed{\kf0}
+Dialogue: 0,0:01:37.35,0:01:50.72,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf35}{\fad(250,250)}To{\kf108}mor{\kf38}row{\kf10}'s{\kf8} {\kf73}gift{\kf7} {\kf24}is{\kf8} {\kf38}that{\kf15} {\kf80}no{\kf28}bo{\kf33}dy{\kf17} {\kf77}know{\kf8}s{\kf0}
+Dialogue: 0,0:01:44.08,0:01:56.78,Chorus English 1st Line,Fluttershy & Choir,0,0,0,,{\k100}{\be2}{\kf0}{\kf130}{\fad(250,250)}Sleep{\kf0} {\kf48}in{\kf3} {\kf80}beau{\kf29}ti{\kf47}ful{\kf8} {\kf286}peace{\kf0}
+Dialogue: 0,0:01:50.72,0:02:03.29,Chorus English 2nd Line,Fluttershy & Choir,0,0,0,,{\k100}{\be2}{\kf0}{\kf114}{\fad(250,250)}Sleep{\kf0} {\kf50}in{\kf9} {\kf72}beau{\kf27}ti{\kf58}ful{\kf4} {\kf196}peace{\kf0}
+Dialogue: 0,0:01:56.78,0:02:09.75,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf55}{\fad(250,250)}Oh{\kf0}-{\kf314}whoa{\kf0}
+Dialogue: 0,0:02:03.29,0:02:16.27,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf25}{\fad(250,250)}Oh{\kf0}-{\kf34}whoa{\kf0}-{\kf55}oh{\kf0}-{\kf309}oh{\kf0}
+Dialogue: 0,0:02:09.75,0:02:16.43,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf6}{\kf32}{\fad(250,250)}Oh{\kf0}-{\kf82}whoa{\kf0}-{\kf30}oh{\kf0}-{\kf418}oh{\kf0}
+Dialogue: 0,0:02:16.27,0:02:20.93,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf11}{\kf32}{\fad(250,250)}Oh{\kf0}-{\kf323}whoa{\kf0}
+Dialogue: 0,0:02:18.45,0:02:36.60,Chorus English 1st Line,Choir,0,0,0,,{\k100}{\be2}{\kf0}{\kf119}{\fad(250,250)}Sleep{\kf5} {\kf31}in{\kf16} {\kf55}beau{\kf26}ti{\kf72}ful{\kf8} {\kf136}peace{\kf0}
+Dialogue: 0,0:02:23.40,0:02:37.68,Fluttershy English 2nd Line,Fluttershy & Choir,0,0,0,,{\k100}{\kf0}{\kf285}{\be2}{\fad(250,250)}Sleep{\kf6} {\kf45}in{\kf3} {\kf109}beau{\kf54}ti{\kf163}ful{\kf4} {\kf559}peace{\kf0}
+Dialogue: 0,0:02:36.60,0:02:46.30,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf131}{\fad(250,250)}Sleep{\kf17} {\kf56}in{\kf0} {\kf101}beau{\kf36}ti{\kf67}ful{\kf27} {\kf335}peace{\kf0}
+Dialogue: 0,0:00:00.00,0:00:06.02,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k33}{\be2}{\kf129}{\fad(250,250)}夜{\kf48}寂{\kf0}{\kf120}静{\kf272}
+Dialogue: 0,0:00:00.00,0:00:09.30,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k365}{\be2}{\kf0}{\kf125}{\fad(250,250)}夜{\kf51}繁{\kf0}{\kf84}星{\kf0}
+Dialogue: 0,0:00:06.02,0:00:12.52,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf102}{\fad(250,250)}万{\kf11}{\kf34}物{\kf10}{\kf118}静{\kf0}
+Dialogue: 0,0:00:09.30,0:00:19.06,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf104}{\fad(250,250)}万{\kf4}{\kf37}物{\kf15}{\kf110}明{\kf0}
+Dialogue: 0,0:00:12.52,0:00:25.65,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf105}{\fad(250,250)}森{\kf12}{\kf36}林{\kf17}{\kf107}环{\kf41}绕{\kf16}  {\kf75}不{\kf32}分{\kf0}{\kf54}老{\kf0}{\kf139}少{\kf0}
+Dialogue: 0,0:00:19.06,0:00:32.23,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf110}{\fad(250,250)}皆{\kf34}是{\kf10}{\kf119}温{\kf62}和{\kf0}{\kf77}的{\kf82}生{\kf102}灵{\kf0}
+Dialogue: 0,0:00:25.65,0:00:38.60,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf110}{\fad(250,250)}安{\kf45}家{\kf9}{\kf116}洞{\kf45}穴{\kf3}{\kf279}深处{\kf588}
+Dialogue: 0,0:00:32.23,0:00:41.92,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf54}{\fad(250,250)}安{\kf0}{\kf50}家{\kf8}{\kf51}在{\kf114}洞{\kf44}穴深{\kf6}{\kf172}处{\kf0}
+Dialogue: 0,0:00:38.60,0:00:45.26,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf16}{\kf114}{\fad(250,250)}夜{\kf56}寂{\kf0}{\kf106}静{\kf0}
+Dialogue: 0,0:00:41.92,0:00:51.85,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf127}{\fad(250,250)}夜{\kf42}繁{\kf0}{\kf132}星
+Dialogue: 0,0:00:45.26,0:00:57.86,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf101}{\fad(250,250)}落{\kf50}雪{\kf19}{\kf93}把{\kf14}{\kf44}草{\kf15}{\kf99}地{\kf42}刷{\kf20}{\kf108}白{\kf0}
+Dialogue: 0,0:00:51.85,0:01:04.97,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf110}{\fad(250,250)}相{\kf25}互{\kf8}{\kf92}依{\kf7}{\kf21}偎{\kf65}留{\kf82}住{\kf82}温{\kf79}情{\kf641}
+Dialogue: 0,0:00:57.86,0:01:11.48,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf3}{\kf52}{\fad(250,250)}黎{\kf98}明{\kf58}将{\kf93}迎{\kf28}来{\kf58}圣{\kf105}诞{\kf57}清{\kf97}晨{\kf613}
+Dialogue: 0,0:01:04.97,0:01:17.83,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf106}{\fad(250,250)}昨{\kf0}{\kf60}日{\kf0}{\kf119}已{\kf0}{\kf43}经{\kf7}{\kf249}离开{\kf0}
+Dialogue: 0,0:01:11.48,0:01:21.15,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf61}{\fad(250,250)}平{\kf0}{\kf31}安{\kf14}{\kf62}夜{\kf0}{\kf121}已{\kf0}{\kf35}离{\kf11}{\kf110}开{\kf0}
+Dialogue: 0,0:01:17.83,0:01:24.52,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf112}{\fad(250,250)}夜{\kf58}寂{\kf7}{\kf100}静{\kf0}
+Dialogue: 0,0:01:21.15,0:01:31.10,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf136}{\fad(250,250)}夜{\kf47}繁{\kf0}{\kf99}星{\kf0}
+Dialogue: 0,0:01:24.52,0:01:37.35,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf110}{\fad(250,250)}叶{\kf49}落{\kf120}定{\kf18}月{\kf25}光{\kf8}{\kf110}尽收{\kf43}眼{\kf154}底{\kf546}
+Dialogue: 0,0:01:31.10,0:01:44.08,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf113}{\fad(250,250)}双{\kf38}眼{\kf21}{\kf72}闭{\kf8}{\kf27}上{\kf4}{\kf45}进{\kf5}{\kf106}入{\kf7}{\kf22}梦{\kf11}{\kf96}乡{\kf623}
+Dialogue: 0,0:01:37.35,0:01:50.72,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf143}{\fad(250,250)}明{\kf48}日{\kf8}{\kf73}惊{\kf7}{\kf24}喜{\kf8}{\kf38}谁{\kf15}{\kf80}能{\kf61}想{\kf17}{\kf85}象{\kf630}
+Dialogue: 0,0:01:44.08,0:01:56.78,Chorus Mandarin 1st Line,Fluttershy & Choir,0,0,0,,{\k100}{\be2}{\kf0}{\kf130}{\fad(250,250)}睡{\kf0}{\kf48}得{\kf3}{\kf80}甜{\kf29}美{\kf47}安{\kf8}{\kf286}详{\kf0}
+Dialogue: 0,0:01:50.72,0:02:03.29,Chorus Mandarin 2nd Line,Fluttershy & Choir,0,0,0,,{\k100}{\be2}{\kf0}{\kf114}{\fad(250,250)}睡{\kf0}{\kf50}得{\kf9}{\kf72}甜{\kf27}美{\kf58}安{\kf4}{\kf196}详{\kf0}
+Dialogue: 0,0:02:18.45,0:02:36.60,Chorus Mandarin 1st Line,Choir,0,0,0,,{\k100}{\be2}{\kf0}{\kf119}{\fad(250,250)}睡{\kf5}{\kf31}得{\kf16}{\kf55}甜{\kf26}美{\kf72}安{\kf8}{\kf136}详{\kf0}
+Dialogue: 0,0:02:23.40,0:02:37.68,Fluttershy Mandarin 2nd Line,Fluttershy & Choir,0,0,0,,{\k100}{\kf0}{\kf285}{\be2}{\fad(250,250)}睡{\kf6}{\kf45}得{\kf3}{\kf109}甜{\kf54}美{\kf163}安{\kf4}{\kf559}详{\kf0}
+Dialogue: 0,0:02:36.60,0:02:46.30,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\be2}{\kf0}{\kf131}{\fad(250,250)}睡{\kf17}{\kf56}得{\kf0}{\kf101}甜{\kf36}美{\kf67}安{\kf27}{\kf335}详{\kf0}
+Dialogue: 2,0:02:47.78,0:02:49.78,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}翻译\N{\fs95}轮回
+Dialogue: 2,0:02:49.78,0:02:51.79,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}润色\N{\fs95}包子  傻猫
+Dialogue: 2,0:02:51.79,0:02:53.79,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}校对\N{\fs95}森林金雨  傻猫
+Dialogue: 2,0:02:53.79,0:02:55.79,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}背景图绘制\N{\fs95}月魇
+Dialogue: 2,0:02:55.80,0:02:57.80,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}时间轴\N{\fs95}BronyDee
+Dialogue: 2,0:02:57.81,0:02:59.81,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}制作\N{\fs95}习成 PBU 工作组
+Dialogue: 2,0:02:59.82,0:03:01.19,Staff Credit (Boardless),,0,0,0,,{\fad(150,0)}{\fs130}感谢观看
+Dialogue: 1,0:02:45.78,0:03:01.19,Overlay Screen,,0,0,0,,{\fad(1000,0)}{\p1}m 0 0 l 1920 0 1920 1080 0 1080{\p0}
+Dialogue: 1,0:00:00.00,0:00:00.50,Overlay Screen,,0,0,0,,{\fad(0,500)}{\p1\c&HFFFFFF&}m 0 0 l 1920 0 1920 1080 0 1080{\p0}

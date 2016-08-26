@@ -1,0 +1,239 @@
+﻿[Script Info]
+Title: Twelve Days of Christmas
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Original Translation: 轮回
+Original Editing: 包子  傻猫
+Original Timing: Loadhe
+Script Updated By: 森林金雨
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Credit,思源黑体 Heavy,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Overlay Screen,Arial,20,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Pinkie Pie English 1st Line,Lucida Sans,60,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Pinkie Pie English 2nd Line,Lucida Sans,60,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,60,1
+Style: Pinkie Pie Mandarin 1st Line,思源黑体 Heavy,80,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Pinkie Pie Mandarin 2nd Line,思源黑体 Heavy,80,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.55,0:00:09.15,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf21}On {\kf21}the {\kf45}first {\kf31}day {\kf20}of {\kf37}Christ{\kf30}mas
+Dialogue: 0,0:00:05.55,0:00:09.15,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf30}圣{\kf20}诞{\kf43}节{\kf37}第{\kf37}一{\kf32}天
+Dialogue: 0,0:00:07.54,0:00:12.20,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf13}My {\kf20}true {\kf24}friends {\kf21}gave {\kf22}to {\kf61}me
+Dialogue: 0,0:00:07.54,0:00:12.20,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf20}好{\kf19}朋{\kf14}友{\kf11}为{\kf21}我{\kf23}带{\kf53}来
+Dialogue: 0,0:00:09.15,0:00:14.22,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf23}a {\kf44}big {\kf45}bowl of {\kf20}ra{\kf65}vio{\kf108}li
+Dialogue: 0,0:00:09.15,0:00:14.22,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf25}一{\kf29}大{\kf49}碗{\kf33}小{\kf57}方{\kf112}饺
+Dialogue: 0,0:00:12.20,0:00:16.10,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf24}{\kf13}On {\kf12}the {\kf41}second {\kf26}day {\kf19}of {\kf52}Christ{\kf15}mas
+Dialogue: 0,0:00:12.20,0:00:16.10,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf23}{\kf15}圣{\kf16}诞{\kf47}节{\kf34}第{\kf51}二{\kf16}天
+Dialogue: 0,0:00:14.22,0:00:17.35,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf16}My {\kf21}true {\kf23}friends {\kf21}gave {\kf19}to {\kf88}me
+Dialogue: 0,0:00:14.22,0:00:17.35,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf23}好{\kf24}朋{\kf15}友{\kf9}为{\kf19}我{\kf17}带{\kf81}来
+Dialogue: 0,0:00:16.10,0:00:20.75,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf32}Two {\kf40}party {\kf29}can{\kf24}nons
+Dialogue: 0,0:00:16.10,0:00:20.75,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf45}两{\kf14}门{\kf13}派{\kf12}对{\kf20}大{\kf21}炮
+Dialogue: 0,0:00:17.35,0:00:22.62,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf40}And a {\kf44}big {\kf37}bowl of {\kf29}ra{\kf21}vi{\kf40}o{\kf129}li
+Dialogue: 0,0:00:17.35,0:00:22.62,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf26}和{\kf22}一{\kf41}大{\kf41}碗{\kf25}小{\kf60}方{\kf125}饺
+Dialogue: 0,0:00:20.75,0:00:24.45,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf16}On {\kf14}the {\kf36}third {\kf27}day {\kf22}of {\kf53}Christ{\kf19}mas
+Dialogue: 0,0:00:20.75,0:00:24.45,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf21}圣{\kf21}诞{\kf37}节{\kf45}第{\kf41}三{\kf22}天
+Dialogue: 0,0:00:22.62,0:00:25.79,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf13}My {\kf18}true {\kf29}friends {\kf16}gave {\kf22}to {\kf85}me
+Dialogue: 0,0:00:22.62,0:00:25.79,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf19}好{\kf24}朋{\kf15}友{\kf11}为{\kf19}我{\kf19}带{\kf76}来
+Dialogue: 0,0:00:24.45,0:00:27.05,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf42}Three {\kf42}chocolate {\kf16}cup{\kf34}cakes
+Dialogue: 0,0:00:24.45,0:00:27.05,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf12}三{\kf26}块{\kf19}巧{\kf15}克{\kf13}力{\kf23}蛋{\kf26}糕
+Dialogue: 0,0:00:25.79,0:00:30.30,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf37}Two {\kf30}party {\kf25}can{\kf34}nons
+Dialogue: 0,0:00:25.79,0:00:30.30,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf39}两{\kf21}门{\kf16}派{\kf24}对{\kf26}炮
+Dialogue: 0,0:00:27.05,0:00:32.25,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf19}And {\kf20}a {\kf29}big {\kf66}bowl of {\kf11}ra{\kf15}vi{\kf35}o{\kf130}li
+Dialogue: 0,0:00:27.05,0:00:32.25,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf23}和{\kf22}一{\kf33}大{\kf46}碗{\kf25}小{\kf60}方{\kf116}饺
+Dialogue: 0,0:00:30.30,0:00:34.15,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf19}On {\kf26}the {\kf37}fourth {\kf29}day {\kf17}of {\kf49}Christ{\kf18}mas
+Dialogue: 0,0:00:30.30,0:00:34.15,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf27}圣{\kf23}诞{\kf39}节{\kf48}第{\kf40}四{\kf18}天
+Dialogue: 0,0:00:32.25,0:00:35.40,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf15}My {\kf22}true {\kf24}friends {\kf16}gave {\kf25}to {\kf57}me{\kf31}
+Dialogue: 0,0:00:32.25,0:00:35.40,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf23}好{\kf22}朋{\kf17}友{\kf7}为{\kf18}我{\kf23}带{\kf80}来
+Dialogue: 0,0:00:34.15,0:00:36.65,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf35}Four {\kf18}pink {\kf21}ba{\kf31}lloon{\kf20}s
+Dialogue: 0,0:00:34.15,0:00:36.65,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf40}四{\kf27}个{\kf22}粉{\kf21}气{\kf15}球
+Dialogue: 0,0:00:35.40,0:00:37.85,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf37}Three{\kf17} choco{\kf19}late {\kf29}cup{\kf28}cakes
+Dialogue: 0,0:00:35.40,0:00:37.85,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf41}三{\kf20}块{\kf9}巧{\kf9}克{\kf12}力{\kf19}蛋{\kf15}糕
+Dialogue: 0,0:00:36.65,0:00:40.75,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf27}Two {\kf24}par{\kf17}ty {\kf47}cannons
+Dialogue: 0,0:00:36.65,0:00:40.75,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf47}两{\kf16}门{\kf15}派{\kf22}对{\kf20}炮
+Dialogue: 0,0:00:37.85,0:00:43.23,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf26}And {\kf25}a {\kf40}big {\kf23}bowl {\kf18}of {\kf22}ra{\kf63}vio{\kf73}li
+Dialogue: 0,0:00:37.85,0:00:43.23,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf30}和{\kf18}一{\kf41}大{\kf44}碗{\kf27}小{\kf58}方{\kf72}饺
+Dialogue: 0,0:00:40.75,0:00:44.85,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf60}{\kf13}On {\kf30}the {\kf36}fifth {\kf19}day {\kf23}of {\kf48}Christ{\kf19}mas
+Dialogue: 0,0:00:40.75,0:00:44.85,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf61}{\kf17}圣{\kf22}诞{\kf39}节{\kf43}第{\kf44}五{\kf22}天
+Dialogue: 0,0:00:43.23,0:00:51.35,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf11}My {\kf21}true {\kf18}friends {\kf20}gave {\kf22}to {\kf54}me{\kf16}
+Dialogue: 0,0:00:43.23,0:00:51.35,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf19}好{\kf20}朋{\kf14}友{\kf9}为{\kf17}我{\kf22}带{\kf61}来
+Dialogue: 0,0:00:44.85,0:00:52.25,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf28}{\kf100}Five {\kf44}che{\kf48}rry{\kf24}chan{\kf197}ga{\kf44}s!
+Dialogue: 0,0:00:44.85,0:00:52.25,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf25}{\kf93}五{\kf57}碟{\kf44}樱{\kf32}桃{\kf207}卷{\kf27}
+Dialogue: 0,0:00:51.35,0:00:53.45,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf22}Four {\kf14}pink {\kf15}ba{\kf39}lloons
+Dialogue: 0,0:00:51.35,0:00:53.45,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf18}四{\kf14}个{\kf22}粉{\kf24}气{\kf12}球
+Dialogue: 0,0:00:52.25,0:00:54.45,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf42}Three {\kf23}cup{\kf31}cake{\kf16}s
+Dialogue: 0,0:00:52.25,0:00:54.45,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf38}三{\kf23}块{\kf16}小{\kf15}杯{\kf20}糕
+Dialogue: 0,0:00:53.45,0:00:58.00,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf18}Two {\kf21}par{\kf15}ty {\kf18}can{\kf28}nons
+Dialogue: 0,0:00:53.45,0:00:58.00,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf25}两{\kf19}门{\kf16}派{\kf22}对{\kf18}炮
+Dialogue: 0,0:00:54.45,0:00:59.85,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf18}And {\kf15}a {\kf28}big {\kf29}bowl of {\kf35}ra{\kf39}vio{\kf191}li
+Dialogue: 0,0:00:54.45,0:00:59.85,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf14}和{\kf19}一{\kf30}大{\kf38}碗{\kf27}小{\kf43}方{\kf184}饺
+Dialogue: 0,0:00:58.00,0:01:01.50,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf19}On {\kf20}the {\kf38}sixth {\kf31}day {\kf15}of {\kf35}Christ{\kf27}mas
+Dialogue: 0,0:00:58.00,0:01:01.50,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf21}圣{\kf20}诞{\kf43}节{\kf40}第{\kf42}六{\kf19}天
+Dialogue: 0,0:00:59.85,0:01:02.88,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf16}My {\kf15}true {\kf27}friends {\kf20}gave {\kf15}to {\kf72}me
+Dialogue: 0,0:00:59.85,0:01:02.88,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf18}好{\kf23}朋{\kf13}友{\kf10}为{\kf17}我{\kf23}带{\kf61}来
+Dialogue: 0,0:01:01.50,0:01:07.35,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf28}Six {\kf55}streamers {\kf62}streaming
+Dialogue: 0,0:01:01.50,0:01:07.35,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf54}六{\kf24}条{\kf19}彩{\kf22}带{\kf19}飘
+Dialogue: 0,0:01:02.88,0:01:08.35,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf58}Five {\kf53}che{\kf41}rry{\kf26}chan{\kf179}gas!{\kf83}
+Dialogue: 0,0:01:02.88,0:01:08.35,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf78}五{\kf49}碟{\kf36}樱{\kf27}桃{\kf257}卷
+Dialogue: 0,0:01:07.35,0:01:09.45,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf25}Four {\kf19}pink {\kf13}ba{\kf33}lloons
+Dialogue: 0,0:01:07.35,0:01:09.45,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf23}四{\kf11}个{\kf14}粉{\kf17}气{\kf25}球
+Dialogue: 0,0:01:08.35,0:01:10.50,Pinkie Pie English 1st Line,,0,0,0,,{\k90}{\fad(250,250)}{\kf23}Three {\kf31}cup{\kf40}cake{\kf26}s
+Dialogue: 0,0:01:08.35,0:01:10.50,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k90}{\fad(250,250)}{\kf39}三{\kf22}块{\kf18}小{\kf21}杯{\kf20}糕
+Dialogue: 0,0:01:09.45,0:01:13.70,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf25}Two {\kf18}par{\kf21}ty {\kf18}can{\kf23}nons
+Dialogue: 0,0:01:09.45,0:01:13.70,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf39}两{\kf15}门{\kf19}派{\kf17}对{\kf15}炮
+Dialogue: 0,0:01:10.50,0:01:15.47,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf27}And {\kf12}a {\kf38}big {\kf37}bowl of {\kf16}ra{\kf42}vio{\kf148}li
+Dialogue: 0,0:01:10.50,0:01:15.47,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf22}和{\kf15}一{\kf35}大{\kf39}碗{\kf22}小{\kf46}方{\kf141}饺
+Dialogue: 0,0:01:13.70,0:01:17.00,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf17}On {\kf14}the {\kf44}seventh {\kf23}day {\kf14}of {\kf42}Christ{\kf26}mas
+Dialogue: 0,0:01:13.70,0:01:17.00,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf21}圣{\kf15}诞{\kf42}节{\kf41}第{\kf38}七{\kf20}天
+Dialogue: 0,0:01:15.47,0:01:18.31,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf17}My {\kf12}true {\kf19}friends {\kf16}gave {\kf23}to {\kf66}me
+Dialogue: 0,0:01:15.47,0:01:18.31,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf16}好{\kf21}朋{\kf13}友{\kf9}为{\kf15}我{\kf21}带{\kf58}来
+Dialogue: 0,0:01:17.00,0:01:19.45,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf35}Seven {\kf27}rocks {\kf39}a-roll{\kf34}ing
+Dialogue: 0,0:01:17.00,0:01:19.45,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf33}七{\kf18}颗{\kf24}石{\kf15}头{\kf19}晃{\kf22}摇
+Dialogue: 0,0:01:18.31,0:01:24.95,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf19}Six {\kf46}streamers {\kf16}strea{\kf33}ming
+Dialogue: 0,0:01:18.31,0:01:24.95,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf36}六{\kf20}条{\kf20}彩{\kf15}带{\kf23}飘
+Dialogue: 0,0:01:19.45,0:01:25.90,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf61}Five {\kf61}che{\kf49}rry{\kf24}chan{\kf170}gas!{\kf20}
+Dialogue: 0,0:01:19.45,0:01:25.90,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf77}五{\kf56}碟{\kf38}樱{\kf28}桃{\kf186}卷
+Dialogue: 0,0:01:24.95,0:01:26.95,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf26}Four {\kf24}pink {\kf16}ba{\kf29}lloons
+Dialogue: 0,0:01:24.95,0:01:26.95,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf39}四{\kf11}个{\kf6}粉{\kf20}气{\kf19}球
+Dialogue: 0,0:01:25.90,0:01:28.02,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf32}Three {\kf24}cup{\kf39}cake{\kf10}s
+Dialogue: 0,0:01:25.90,0:01:28.02,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf27}三{\kf17}块{\kf22}小{\kf21}杯{\kf18}糕
+Dialogue: 0,0:01:26.95,0:01:31.50,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf27}Two {\kf15}par{\kf17}ty {\kf22}can{\kf34}nons
+Dialogue: 0,0:01:26.95,0:01:31.50,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf32}两{\kf20}门{\kf12}派{\kf21}对{\kf22}炮
+Dialogue: 0,0:01:28.02,0:01:34.00,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf22}And a {\kf29}big {\kf40}bowl of {\kf14}ra{\kf50}vio{\kf185}li
+Dialogue: 0,0:01:28.02,0:01:34.00,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf13}和{\kf15}一{\kf34}大{\kf35}碗{\kf19}小{\kf55}方{\kf177}饺
+Dialogue: 0,0:01:31.50,0:01:35.97,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf53}On {\kf34}the {\kf51}eighth {\kf25}day {\kf22}of {\kf42}Christ{\kf23}mas
+Dialogue: 0,0:01:31.50,0:01:35.97,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf56}圣{\kf28}诞{\kf41}节{\kf62}第{\kf42}八{\kf21}天
+Dialogue: 0,0:01:34.00,0:01:36.97,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf20}My {\kf14}true {\kf23}friends {\kf16}gave {\kf18}to {\kf72}me{\kf37}
+Dialogue: 0,0:01:34.00,0:01:36.97,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf17}好{\kf24}朋{\kf11}友{\kf11}为{\kf15}我{\kf16}带{\kf103}来
+Dialogue: 0,0:01:35.97,0:01:37.98,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf17}Eight {\kf29}clowns {\kf6}a{\kf21}-clow{\kf25}ning
+Dialogue: 0,0:01:35.97,0:01:37.98,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf16}八{\kf16}位{\kf16}小{\kf17}丑{\kf16}逗{\kf17}笑
+Dialogue: 0,0:01:36.97,0:01:39.09,Pinkie Pie English 2nd Line,,0,0,0,,{\k98}{\fad(250,250)}{\kf22}Seven {\kf35}rocks {\kf48}a-rolling
+Dialogue: 0,0:01:36.97,0:01:39.09,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k98}{\fad(250,250)}{\kf17}七{\kf17}颗{\kf11}石{\kf9}头{\kf30}晃{\kf19}摇
+Dialogue: 0,0:01:37.98,0:01:43.35,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf20}Six {\kf41}streamers {\kf54}streaming
+Dialogue: 0,0:01:37.98,0:01:43.35,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf32}六{\kf19}条{\kf17}彩{\kf20}带{\kf23}飘
+Dialogue: 0,0:01:39.09,0:01:44.40,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf63}Five {\kf54}che{\kf46}rry{\kf33}chan{\kf183}gas!{\kf41}
+Dialogue: 0,0:01:39.09,0:01:44.40,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf85}五{\kf52}碟{\kf41}樱{\kf24}桃{\kf224}卷
+Dialogue: 0,0:01:43.35,0:01:45.40,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf27}Four {\kf28}pink {\kf14}ba{\kf36}lloons
+Dialogue: 0,0:01:43.35,0:01:45.40,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf40}四{\kf25}个{\kf15}粉{\kf16}气{\kf9}球
+Dialogue: 0,0:01:44.40,0:01:46.46,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf32}Three {\kf15}cup{\kf39}cake{\kf14}s
+Dialogue: 0,0:01:44.40,0:01:46.46,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf30}三{\kf24}块{\kf12}小{\kf22}杯{\kf12}糕
+Dialogue: 0,0:01:45.40,0:01:49.95,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf27}Two {\kf36}party {\kf20}can{\kf32}nons
+Dialogue: 0,0:01:45.40,0:01:49.95,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf36}两{\kf20}门{\kf13}派{\kf24}对{\kf13}炮
+Dialogue: 0,0:01:46.46,0:01:52.25,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf22}And a {\kf25}big {\kf28}bowl of {\kf29}ra{\kf42}vio{\kf194}li
+Dialogue: 0,0:01:46.46,0:01:52.25,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf17}和{\kf15}一{\kf29}大{\kf38}碗{\kf21}小{\kf45}方{\kf184}饺
+Dialogue: 0,0:01:49.95,0:01:54.15,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf27}{\kf26}On {\kf22}the {\kf28}ninth {\kf28}day {\kf21}of {\kf53}Christ{\kf25}mas
+Dialogue: 0,0:01:49.95,0:01:54.15,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf29}{\kf27}圣{\kf24}诞{\kf34}节{\kf52}第{\kf46}九{\kf18}天
+Dialogue: 0,0:01:52.25,0:01:55.20,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf19}My {\kf19}true {\kf20}friends {\kf16}gave {\kf29}to {\kf92}me
+Dialogue: 0,0:01:52.25,0:01:55.20,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf20}好{\kf24}朋{\kf11}友{\kf7}为{\kf28}我{\kf20}带{\kf80}来
+Dialogue: 0,0:01:54.15,0:01:56.25,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf22}Nine {\kf29}drums {\kf54}a-drumming
+Dialogue: 0,0:01:54.15,0:01:56.25,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf30}九{\kf26}组{\kf7}鼓{\kf21}自{\kf21}敲
+Dialogue: 0,0:01:55.20,0:01:57.35,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf18}Eight {\kf27}clowns {\kf60}a-clowning
+Dialogue: 0,0:01:55.20,0:01:57.35,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf29}八{\kf17}位{\kf12}小{\kf12}丑{\kf17}逗{\kf18}笑
+Dialogue: 0,0:01:56.25,0:01:58.45,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf21}Seven {\kf32}rocks {\kf57}a-rolling
+Dialogue: 0,0:01:56.25,0:01:58.45,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf23}七{\kf13}颗{\kf26}石{\kf9}头{\kf20}晃{\kf19}摇
+Dialogue: 0,0:01:57.35,0:02:02.15,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf19}Six {\kf40}streamers {\kf51}streaming
+Dialogue: 0,0:01:57.35,0:02:02.15,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf32}六{\kf20}条{\kf18}彩{\kf18}带{\kf22}飘
+Dialogue: 0,0:01:58.45,0:02:03.15,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf58}Five {\kf57}che{\kf38}rry{\kf27}chan{\kf164}gas!{\kf26}
+Dialogue: 0,0:01:58.45,0:02:03.15,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf74}五{\kf48}碟{\kf35}樱{\kf29}桃{\kf184}卷
+Dialogue: 0,0:02:02.15,0:02:04.20,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf39}Four {\kf16}pink {\kf12}ba{\kf28}lloons
+Dialogue: 0,0:02:02.15,0:02:04.20,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf34}四{\kf17}个{\kf12}粉{\kf15}气{\kf17}球
+Dialogue: 0,0:02:03.15,0:02:05.22,Pinkie Pie English 1st Line,,0,0,0,,{\k95}{\fad(250,250)}{\kf35}Three {\kf12}cup{\kf49}cake{\kf14}s
+Dialogue: 0,0:02:03.15,0:02:05.22,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k95}{\fad(250,250)}{\kf34}三{\kf11}块{\kf32}小{\kf21}杯{\kf12}糕
+Dialogue: 0,0:02:04.20,0:02:08.25,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf18}Two {\kf37}party {\kf21}can{\kf29}nons
+Dialogue: 0,0:02:04.20,0:02:08.25,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf33}两{\kf16}门{\kf12}派{\kf25}对{\kf16}炮
+Dialogue: 0,0:02:05.22,0:02:10.85,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf26}And a {\kf25}big {\kf38}bowl of {\kf27}ra{\kf37}vio{\kf150}li
+Dialogue: 0,0:02:05.22,0:02:10.85,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf16}和{\kf15}一{\kf36}大{\kf32}碗{\kf21}小{\kf36}方{\kf140}饺
+Dialogue: 0,0:02:08.25,0:02:12.63,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf25}On {\kf40}the {\kf68}tenth {\kf20}day {\kf17}of {\kf59}Christ{\kf31}mas
+Dialogue: 0,0:02:08.25,0:02:12.63,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf43}圣{\kf35}诞{\kf51}节{\kf56}第{\kf50}十{\kf25}天
+Dialogue: 0,0:02:10.85,0:02:13.90,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf14}My {\kf26}true {\kf17}friends {\kf21}gave {\kf14}to {\kf93}me
+Dialogue: 0,0:02:10.85,0:02:13.90,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf17}好{\kf24}朋{\kf10}友{\kf9}为{\kf26}我{\kf17}带{\kf75}来
+Dialogue: 0,0:02:12.63,0:02:15.02,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf18}Ten {\kf35}gifts {\kf19}for {\kf25}Gum{\kf23}my
+Dialogue: 0,0:02:12.63,0:02:15.02,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf35}十{\kf12}份{\kf13}礼{\kf15}物{\kf13}给{\kf24}软{\kf15}糖
+Dialogue: 0,0:02:13.90,0:02:16.02,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf16}Nine {\kf32}drums {\kf39}a-drum{\kf28}ming
+Dialogue: 0,0:02:13.90,0:02:16.02,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf33}九{\kf25}组{\kf11}鼓{\kf29}自{\kf14}敲
+Dialogue: 0,0:02:15.02,0:02:17.02,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf15}Eight {\kf32}clowns {\kf58}a-clowning
+Dialogue: 0,0:02:15.02,0:02:17.02,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf17}八{\kf17}位{\kf22}小{\kf11}丑{\kf22}逗{\kf11}笑
+Dialogue: 0,0:02:16.02,0:02:17.95,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf17}Seven {\kf23}rocks {\kf45}a-rolling
+Dialogue: 0,0:02:16.02,0:02:17.95,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf20}七{\kf11}颗{\kf15}石{\kf16}头{\kf12}晃{\kf19}摇
+Dialogue: 0,0:02:17.02,0:02:21.20,Pinkie Pie English 2nd Line,,0,0,0,,{\k93}{\fad(250,250)}{\kf17}Six {\kf29}streamers {\kf54}streaming
+Dialogue: 0,0:02:17.02,0:02:21.20,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k93}{\fad(250,250)}{\kf26}六{\kf10}条{\kf22}彩{\kf14}带{\kf19}飘
+Dialogue: 0,0:02:17.95,0:02:22.20,Pinkie Pie English 1st Line,,0,0,0,,{\k91}{\fad(250,250)}{\kf52}Five {\kf57}che{\kf35}rry{\kf24}chan{\kf141}gas!{\kf16}
+Dialogue: 0,0:02:17.95,0:02:22.20,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k91}{\fad(250,250)}{\kf73}五{\kf55}碟{\kf39}樱{\kf21}桃{\kf146}卷
+Dialogue: 0,0:02:21.20,0:02:23.18,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf20}Four {\kf31}pink {\kf12}ba{\kf37}lloons
+Dialogue: 0,0:02:21.20,0:02:23.18,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf38}四{\kf19}个{\kf12}粉{\kf11}气{\kf15}球
+Dialogue: 0,0:02:22.20,0:02:24.18,Pinkie Pie English 1st Line,,0,0,0,,{\k95}{\fad(250,250)}{\kf27}Three {\kf18}cup{\kf60}cakes
+Dialogue: 0,0:02:22.20,0:02:24.18,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k95}{\fad(250,250)}{\kf27}三{\kf24}块{\kf18}小{\kf21}杯{\kf13}糕
+Dialogue: 0,0:02:23.18,0:02:27.30,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf16}Two {\kf30}party {\kf16}can{\kf38}nons
+Dialogue: 0,0:02:23.18,0:02:27.30,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf31}两{\kf18}门{\kf12}派{\kf23}对{\kf15}炮
+Dialogue: 0,0:02:24.18,0:02:28.70,Pinkie Pie English 1st Line,,0,0,0,,{\k99}{\fad(250,250)}{\kf29}And a {\kf29}big {\kf34}bowl of {\kf22}ra{\kf61}vio{\kf135}li
+Dialogue: 0,0:02:24.18,0:02:28.70,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k99}{\fad(250,250)}{\kf15}和{\kf18}一{\kf31}大{\kf36}碗{\kf27}小{\kf53}方{\kf133}饺
+Dialogue: 0,0:02:27.30,0:02:32.08,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf140}Whew...!
+Dialogue: 0,0:02:28.70,0:02:34.65,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf51}On {\kf53}the{\kf68} eleventh {\kf35}day {\kf40}of {\kf57}Christ{\kf41}mas
+Dialogue: 0,0:02:28.70,0:02:34.65,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf49}圣{\kf49}诞{\kf30}节{\kf55}第{\kf60}十{\kf51}一{\kf44}天
+Dialogue: 0,0:02:32.08,0:02:36.35,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf10}My {\kf19}true {\kf29}friends {\kf26}gave {\kf29}to {\kf137}me
+Dialogue: 0,0:02:32.08,0:02:36.35,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf21}好{\kf27}朋{\kf17}友{\kf10}为{\kf22}我{\kf26}带{\kf134}来
+Dialogue: 0,0:02:34.65,0:02:37.60,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf49}Eleven {\kf12}ru{\kf38}bber {\kf35}chic{\kf36}kens
+Dialogue: 0,0:02:34.65,0:02:37.60,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf22}十{\kf54}一{\kf22}只{\kf23}橡{\kf24}皮{\kf25}鸡
+Dialogue: 0,0:02:36.35,0:02:38.61,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf18}Ten {\kf36}gifts {\kf25}for {\kf22}Gum{\kf24}my
+Dialogue: 0,0:02:36.35,0:02:38.61,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf27}十{\kf17}份{\kf12}礼{\kf15}物{\kf18}给{\kf18}软{\kf18}糖
+Dialogue: 0,0:02:37.60,0:02:39.61,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf16}Nine {\kf34}drums {\kf27}a-drum{\kf28}ming
+Dialogue: 0,0:02:37.60,0:02:39.61,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf30}九{\kf24}组{\kf14}鼓{\kf20}自{\kf13}敲
+Dialogue: 0,0:02:38.61,0:02:40.60,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf17}Eight {\kf23}clowns {\kf55}a-clowning
+Dialogue: 0,0:02:38.61,0:02:40.60,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf26}八{\kf9}位{\kf16}小{\kf17}丑{\kf18}逗{\kf13}笑
+Dialogue: 0,0:02:39.61,0:02:41.56,Pinkie Pie English 1st Line,,0,0,0,,{\k99}{\fad(250,250)}{\kf18}Seven {\kf26}rocks {\kf61}a-rolling
+Dialogue: 0,0:02:39.61,0:02:41.56,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k99}{\fad(250,250)}{\kf17}七{\kf15}颗{\kf16}石{\kf17}头{\kf16}晃{\kf17}摇
+Dialogue: 0,0:02:40.60,0:02:45.80,Pinkie Pie English 2nd Line,,0,0,0,,{\k90}{\fad(250,250)}{\kf12}Six {\kf33}streamers {\kf20}strea{\kf30}ming
+Dialogue: 0,0:02:40.60,0:02:45.80,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k90}{\fad(250,250)}{\kf30}六{\kf24}条{\kf18}彩{\kf16}带{\kf22}飘
+Dialogue: 0,0:02:41.56,0:02:46.80,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf56}Five {\kf56}che{\kf33}rry{\kf31}chan{\kf244}gas!{\kf0}
+Dialogue: 0,0:02:41.56,0:02:46.80,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf81}五{\kf45}碟{\kf35}樱{\kf27}桃{\kf236}卷
+Dialogue: 0,0:02:45.80,0:02:47.75,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf20}Four {\kf19}pink {\kf17}ba{\kf39}lloons
+Dialogue: 0,0:02:45.80,0:02:47.75,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf38}四{\kf16}个{\kf13}粉{\kf14}气{\kf14}球
+Dialogue: 0,0:02:46.80,0:02:48.73,Pinkie Pie English 1st Line,,0,0,0,,{\k95}{\fad(250,250)}{\kf21}Three {\kf27}cup{\kf50}cakes
+Dialogue: 0,0:02:46.80,0:02:48.73,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k95}{\fad(250,250)}{\kf29}三{\kf16}块{\kf21}小{\kf15}杯{\kf17}糕
+Dialogue: 0,0:02:47.75,0:02:53.30,Pinkie Pie English 2nd Line,,0,0,0,,{\k98}{\fad(250,250)}{\kf29}Two {\kf20}party {\kf22}can{\kf26}nons
+Dialogue: 0,0:02:47.75,0:02:53.30,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k98}{\fad(250,250)}{\kf27}两{\kf15}门{\kf16}派{\kf19}对{\kf15}炮
+Dialogue: 0,0:02:48.73,0:02:56.08,Pinkie Pie English 1st Line,,0,0,0,,{\k92}{\fad(250,250)}{\kf29}And a {\kf24}big {\kf28}bowl of {\kf22}ra{\kf49}vio{\kf173}li
+Dialogue: 0,0:02:48.73,0:02:56.08,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k92}{\fad(250,250)}{\kf14}和{\kf17}一{\kf32}大{\kf34}碗{\kf21}小{\kf41}方{\kf171}饺
+Dialogue: 0,0:02:53.30,0:02:58.90,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf38}On {\kf40}the {\kf55}twelfth {\kf35}day {\kf17}of {\kf67}Christ{\kf33}mas
+Dialogue: 0,0:02:53.30,0:02:58.90,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf45}圣{\kf37}诞{\kf53}节{\kf28}第{\kf37}十{\kf49}二{\kf29}天
+Dialogue: 0,0:02:56.08,0:03:00.21,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf8}My {\kf20}true {\kf34}friends {\kf20}gave {\kf22}to {\kf171}me
+Dialogue: 0,0:02:56.08,0:03:00.21,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf20}好{\kf28}朋{\kf16}友{\kf12}为{\kf19}我{\kf25}带{\kf162}来
+Dialogue: 0,0:02:58.90,0:03:01.21,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf58}Twelve {\kf29}candy {\kf48}apples
+Dialogue: 0,0:02:58.90,0:03:01.21,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf39}十{\kf28}二{\kf14}枚{\kf17}糖{\kf13}衣{\kf10}苹{\kf10}果
+Dialogue: 0,0:03:00.21,0:03:02.10,Pinkie Pie English 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf20}Eleven {\kf26}rubber {\kf46}chickens
+Dialogue: 0,0:03:00.21,0:03:02.10,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf13}十{\kf17}一{\kf15}只{\kf12}橡{\kf13}皮{\kf19}鸡
+Dialogue: 0,0:03:01.21,0:03:03.00,Pinkie Pie English 2nd Line,,0,0,0,,{\k89}{\fad(250,250)}{\kf16}Ten {\kf20}gifts {\kf14}for {\kf21}Gum{\kf19}my
+Dialogue: 0,0:03:01.21,0:03:03.00,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k89}{\fad(250,250)}{\kf13}十{\kf13}份{\kf13}软{\kf10}糖{\kf11}的{\kf17}礼{\kf13}物
+Dialogue: 0,0:03:02.10,0:03:03.85,Pinkie Pie English 1st Line,,0,0,0,,{\k90}{\fad(250,250)}{\kf16}Nine {\kf31}drums {\kf17}a-drum{\kf21}ming
+Dialogue: 0,0:03:02.10,0:03:03.85,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k90}{\fad(250,250)}{\kf28}九{\kf17}组{\kf13}鼓{\kf10}自{\kf17}敲
+Dialogue: 0,0:03:03.00,0:03:04.65,Pinkie Pie English 2nd Line,,0,0,0,,{\k90}{\fad(250,250)}{\kf21}Eight {\kf15}clowns {\kf39}a-clowning
+Dialogue: 0,0:03:03.00,0:03:04.65,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k90}{\fad(250,250)}{\kf12}八{\kf13}位{\kf12}小{\kf13}丑{\kf12}逗{\kf13}笑
+Dialogue: 0,0:03:03.85,0:03:05.40,Pinkie Pie English 1st Line,,0,0,0,,{\k80}{\fad(250,250)}{\kf16}Seven {\kf25}rocks {\kf34}a-rolling
+Dialogue: 0,0:03:03.85,0:03:05.40,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k80}{\fad(250,250)}{\kf12}七{\kf13}颗{\kf12}石{\kf14}头{\kf7}晃{\kf17}摇
+Dialogue: 0,0:03:04.65,0:03:08.05,Pinkie Pie English 2nd Line,,0,0,0,,{\k75}{\fad(250,250)}{\kf30}Six streamers {\kf35}streaming
+Dialogue: 0,0:03:04.65,0:03:08.05,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k75}{\fad(250,250)}{\kf19}六{\kf13}条{\kf11}彩{\kf9}带{\kf13}飘
+Dialogue: 0,0:03:05.40,0:03:09.05,Pinkie Pie English 1st Line,,0,0,0,,{\k65}{\fad(250,250)}{\kf65}Five {\kf50}che{\kf42}rry{\kf32}chan{\kf111}gas!{\kf0}
+Dialogue: 0,0:03:05.40,0:03:09.05,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k65}{\fad(250,250)}{\kf72}五{\kf56}碟{\kf39}樱{\kf26}桃{\kf107}卷
+Dialogue: 0,0:03:08.05,0:03:09.85,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf20}Four {\kf17}pink {\kf48}balloons
+Dialogue: 0,0:03:08.05,0:03:09.85,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf27}四{\kf13}个{\kf10}粉{\kf7}气{\kf23}球
+Dialogue: 0,0:03:09.05,0:03:10.65,Pinkie Pie English 1st Line,,0,0,0,,{\k80}{\fad(250,250)}{\kf20}Three {\kf19}cup{\kf36}cakes
+Dialogue: 0,0:03:09.05,0:03:10.65,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k80}{\fad(250,250)}{\kf28}三{\kf12}块{\kf13}小{\kf13}杯{\kf14}糕
+Dialogue: 0,0:03:09.85,0:03:12.47,Pinkie Pie English 2nd Line,,0,0,0,,{\k80}{\fad(250,250)}{\kf21}Two {\kf22}party {\kf18}can{\kf24}nons
+Dialogue: 0,0:03:09.85,0:03:12.47,Pinkie Pie Mandarin 2nd Line,,0,0,0,,{\k80}{\fad(250,250)}{\kf27}两{\kf11}门{\kf11}派{\kf16}对{\kf17}炮
+Dialogue: 0,0:03:10.65,0:03:16.71,Pinkie Pie English 1st Line,,0,0,0,,{\k82}{\fad(250,250)}{\kf25}And a {\kf40}big {\kf50}bowl of {\kf39}ra{\kf70}vio{\kf208}liiiii!
+Dialogue: 0,0:03:10.65,0:03:16.71,Pinkie Pie Mandarin 1st Line,,0,0,0,,{\k82}{\fad(250,250)}{\kf15}和{\kf19}一{\kf36}大{\kf45}碗{\kf49}小{\kf70}方{\kf190}饺
+Dialogue: 0,0:03:14.71,0:03:18.85,Pinkie Pie English 2nd Line,,0,0,0,,{\k100}{\fad(250,250)}{\kf200}WHEE!!!{\kf0}
+Dialogue: 2,0:03:18.21,0:03:20.21,Credit,,0,0,0,,{\fad(250,250)}翻译\N{\fs95}轮回
+Dialogue: 2,0:03:20.21,0:03:22.22,Credit,,0,0,0,,{\fad(250,250)}润色\N{\fs95}包子  傻猫
+Dialogue: 2,0:03:22.22,0:03:24.22,Credit,,0,0,0,,{\fad(250,250)}校对\N{\fs95}森林金雨
+Dialogue: 2,0:03:24.22,0:03:26.22,Credit,,0,0,0,,{\fad(250,250)}背景图绘制\N{\fs95}茶茶婧
+Dialogue: 2,0:03:26.23,0:03:28.23,Credit,,0,0,0,,{\fad(250,250)}时间轴\N{\fs95}Loadhe
+Dialogue: 2,0:03:28.24,0:03:30.24,Credit,,0,0,0,,{\fad(250,250)}制作\N{\fs95}习成 PBU 工作组
+Dialogue: 2,0:03:30.25,0:03:31.62,Credit,,0,0,0,,{\fad(500,0)}{\fs130}感谢观看
+Dialogue: 1,0:00:00.00,0:00:01.00,Overlay Screen,,0,0,0,,{\fad(0,1000)}{\p1\c&HFFFFFF&}m 0 0 l 1920 0 1920 1080 0 1080{\p0}
+Dialogue: 1,0:03:16.21,0:03:31.62,Overlay Screen,,0,0,0,,{\fad(1000,0)}{\p1}m 0 0 l 1920 0 1920 1080 0 1080{\p0}

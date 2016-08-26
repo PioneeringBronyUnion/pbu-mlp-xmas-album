@@ -1,0 +1,213 @@
+﻿[Script Info]
+Title: Jingle Bells
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
+Original Timing: BronyDee
+Original Translation: Rogerdaily
+Original Editing: Rogerdaily
+Script Updated By: Rogerdaily
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Rainbow Dash English 1st Line,Lucida Sans,60,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,-1,0,0,0,100,100,0,0,1,6,0,1,60,60,180,1
+Style: Rainbow Dash English 2nd Line,Lucida Sans,60,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,-1,0,0,0,100,100,0,0,1,6,0,3,60,60,60,1
+Style: Default Mandarin 1st Line,思源黑体 Bold,90,&H00FFFFFF,&H00707070,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,1,60,60,180,1
+Style: Default Mandarin 2nd Line,思源黑体 Bold,90,&H00FFFFFF,&H00707070,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,3,60,60,60,1
+Style: Rainbow Dash Mandarin 1st Line,思源黑体 Heavy,90,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,0,0,0,0,100,100,0,0,1,6,0,1,60,60,180,1
+Style: Rainbow Dash Mandarin 2nd Line,思源黑体 Heavy,90,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,0,0,0,0,100,100,0,0,1,6,0,3,60,60,60,1
+Style: Default English 1st Line,Lucida Sans,60,&H00FFFFFF,&H00707070,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,1,60,60,180,1
+Style: Default English 2nd Line,Lucida Sans,60,&H00FFFFFF,&H00707070,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,3,60,60,60,1
+Style: Credit,思源黑体 Heavy,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,30,1
+Style: Overlay Screen,Arial,20,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.78,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf26}{\kf21}One{\kf43} {\kf31}Two{\kf57}
+Dialogue: 0,0:00:00.53,0:00:03.96,Default English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf20}One{\kf11} {\kf20}two{\kf11} {\kf19}three{\kf9} {\kf33}four{\kf0}
+Dialogue: 0,0:00:01.78,0:00:06.80,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf20}Da{\kf34}shing{\kf8} {\kf23}through{\kf8} {\kf30}the{\kf5} {\kf59}snow{\kf0}
+Dialogue: 0,0:00:03.96,0:00:09.35,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}In{\kf0} {\kf20}a{\kf9} {\kf21}one{\kf0}-{\kf35}horse{\kf3} {\kf26}o{\kf17}pen{\kf6} {\kf75}sleigh{\kf0}
+Dialogue: 0,0:00:06.80,0:00:10.94,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf19}O{\kf18}ver{\kf0} {\kf31}the{\kf0} {\kf32}fields{\kf0} {\kf22}we{\kf6} {\kf69}go{\kf0}
+Dialogue: 0,0:00:09.35,0:00:11.88,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf35}Lau{\kf25}ghing{\kf6} {\kf24}all{\kf6} {\kf24}the{\kf1} {\kf30}way{\kf0}
+Dialogue: 0,0:00:10.94,0:00:14.40,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf21}Ha{\kf17}-{\kf17}ha{\kf9}-{\kf25}ha{\kf0}
+Dialogue: 0,0:00:11.88,0:00:16.63,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf28}Bells{\kf6} {\kf17}on{\kf11} {\kf20}bob{\kf10} {\kf28}tail{\kf8} {\kf45}ring{\kf19}
+Dialogue: 0,0:00:14.40,0:00:19.10,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf34}Ma{\kf15}king{\kf0} {\kf17}s{\kf26}pi{\kf37}rits{\kf0} {\kf64}bright{\kf0}
+Dialogue: 0,0:00:16.63,0:00:21.33,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf22}What{\kf9} {\kf32}fun{\kf3} {\kf28}it{\kf2} {\kf16}is{\kf15} {\kf24}to{\kf8} {\kf31}fly{\kf0} {\kf17}and{\kf7} {\kf29}sing{\kf0}
+Dialogue: 0,0:00:19.10,0:00:22.93,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf23}A{\kf5} {\kf38}sleigh{\kf22}ing{\kf6} {\kf26}song{\kf7} {\kf34}to{\kf31}night{\kf0}
+Dialogue: 0,0:00:21.33,0:00:23.93,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf59}Oh{\kf9}, {\kf30}jin{\kf20}gle{\kf11} {\kf31}bells{\kf0}
+Dialogue: 0,0:00:22.93,0:00:24.20,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}Hey{\kf0}
+Dialogue: 0,0:00:23.93,0:00:25.19,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf29}{\kf0}{\kf37}Jin{\kf19}gle{\kf11} {\kf30}bells{\kf0}
+Dialogue: 0,0:00:24.20,0:00:26.10,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf31}Hey{\kf0}
+Dialogue: 0,0:00:25.19,0:00:27.10,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf33}{\kf0}{\kf32}Jin{\kf24}gle{\kf7} {\kf46}all{\kf6} {\kf11}the{\kf0} {\kf32}way{\kf0}
+Dialogue: 0,0:00:26.10,0:00:29.26,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}Hey{\kf35} {\kf26}Hey{\kf0}
+Dialogue: 0,0:00:27.10,0:00:32.06,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf94}{\kf0}{\kf26}Oh{\kf4}, {\kf24}what{\kf11} {\kf49}fun{\kf0} {\kf14}it{\kf0} {\kf15}is{\kf14} {\kf19}to{\kf12} {\kf30}fly{\kf0}
+Dialogue: 0,0:00:29.26,0:00:33.04,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}In{\kf0} {\kf20}a{\kf9} {\kf21}one{\kf0}-{\kf35}horse{\kf3} {\kf26}o{\kf17}pen{\kf6} {\kf75}sleigh{\kf0}
+Dialogue: 0,0:00:32.06,0:00:34.04,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf37}Jin{\kf19}gle{\kf11} {\kf30}bells{\kf0}
+Dialogue: 0,0:00:33.04,0:00:34.35,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf31}Hey{\kf0}
+Dialogue: 0,0:00:34.04,0:00:35.27,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf31}{\kf0}{\kf37}Jin{\kf19}gle{\kf11} {\kf30}bells{\kf0}
+Dialogue: 0,0:00:34.35,0:00:36.20,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf95}{\kf0}{\kf24}Hey{\kf0}
+Dialogue: 0,0:00:35.27,0:00:37.20,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf31}{\kf0}{\kf32}Jin{\kf24}gle{\kf7} {\kf46}all{\kf6} {\kf11}the{\kf0} {\kf32}way{\kf0}
+Dialogue: 0,0:00:36.20,0:00:39.35,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf30}Hey{\kf32} {\kf29}Hey{\kf0}
+Dialogue: 0,0:00:37.20,0:00:42.20,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf92}{\kf0}{\kf26}Oh{\kf4}, {\kf24}what{\kf11} {\kf49}fun{\kf0} {\kf14}it{\kf0} {\kf15}is{\kf14} {\kf19}to{\kf12} {\kf30}ride{\kf0}
+Dialogue: 0,0:00:39.35,0:00:44.40,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}In{\kf0} {\kf20}a{\kf9} {\kf21}one{\kf0}-{\kf35}horse{\kf3} {\kf26}o{\kf17}pen{\kf6} {\kf75}sleigh{\kf0}
+Dialogue: 0,0:00:42.20,0:00:47.24,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf32}Thought{\kf0} {\kf19}I'd{\kf12} {\kf22}grab{\kf7} {\kf36}some{\kf0} {\kf70}friends{\kf0}
+Dialogue: 0,0:00:44.40,0:00:49.42,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf19}And{\kf7} {\kf30}take{\kf7} {\kf21}them{\kf9} {\kf32}for{\kf0} {\kf17}a{\kf14} {\kf68}ride{\kf0}
+Dialogue: 0,0:00:47.24,0:00:51.97,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf19}Not{\kf15} {\kf19}so{\kf7} {\kf28}sure{\kf8} {\kf30}what's{\kf3} {\kf23}up{\kf17}
+Dialogue: 0,0:00:49.42,0:00:54.52,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf20}As{\kf18} {\kf29}po{\kf24}nies{\kf10} {\kf30}run{\kf0} {\kf21}and{\kf9} {\kf61}hide{\kf0}
+Dialogue: 0,0:00:51.97,0:00:57.35,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf10}{\kf18}Put{\kf8} {\kf15}Ra{\kf15}ri{\kf19}ty{\kf10} {\kf24}in{\kf10} {\kf30}the{\kf3} {\kf47}back{\kf0}
+Dialogue: 0,0:00:54.52,0:00:59.54,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf26}Right{\kf5} {\kf33}next{\kf0} {\kf24}to{\kf8} {\kf31}Pin{\kf30}kie{\kf0} {\kf47}Pie{\kf21}
+Dialogue: 0,0:00:57.35,0:01:01.77,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf33}Be{\kf18}tter{\kf14} {\kf32}buc{\kf29}kle{\kf2} {\kf26}up{\kf0}, {\kf36}my{\kf0} {\kf18}friends{\kf0}
+Dialogue: 0,0:00:59.54,0:01:03.36,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf18}'Cause{\kf17} {\kf26}we're{\kf3} {\kf31}a{\kf32}bout{\kf0} {\kf22}to{\kf5} {\kf44}fly{\kf0}
+Dialogue: 0,0:01:01.77,0:01:04.34,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf59}Oh{\kf9}, {\kf30}jin{\kf20}gle{\kf11} {\kf31}bells{\kf0}
+Dialogue: 0,0:01:03.36,0:01:04.62,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf26}Hey{\kf0}
+Dialogue: 0,0:01:04.34,0:01:05.60,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf30}{\kf0}{\kf37}Jin{\kf19}gle{\kf11} {\kf30}bells{\kf0}
+Dialogue: 0,0:01:04.62,0:01:06.53,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf99}{\kf0}{\kf29}Hey{\kf0}
+Dialogue: 0,0:01:05.60,0:01:07.52,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf32}{\kf0}{\kf32}Jin{\kf24}gle{\kf7} {\kf46}all{\kf6} {\kf11}the{\kf0} {\kf32}way{\kf0}
+Dialogue: 0,0:01:06.53,0:01:09.67,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf29}Hey{\kf33} {\kf24}hey{\kf0}
+Dialogue: 0,0:01:07.52,0:01:12.50,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf94}{\kf0}{\kf26}Oh{\kf4}, {\kf24}what{\kf11} {\kf49}fun{\kf0} {\kf14}it{\kf0} {\kf15}is{\kf14} {\kf19}to{\kf12} {\kf30}fly{\kf0}
+Dialogue: 0,0:01:09.67,0:01:13.47,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}In{\kf0} {\kf20}a{\kf9} {\kf21}one{\kf0}-{\kf35}horse{\kf3} {\kf26}o{\kf17}pen{\kf6} {\kf75}sleigh{\kf0}
+Dialogue: 0,0:01:12.50,0:01:14.45,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf37}Jin{\kf19}gle{\kf11} {\kf30}bells{\kf0}
+Dialogue: 0,0:01:13.47,0:01:14.77,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf30}Hey{\kf0}
+Dialogue: 0,0:01:14.45,0:01:15.69,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf32}{\kf0}{\kf37}Jin{\kf19}gle{\kf11} {\kf30}bells{\kf0}
+Dialogue: 0,0:01:14.77,0:01:16.64,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf92}{\kf0}{\kf28}Hey{\kf0}
+Dialogue: 0,0:01:15.69,0:01:17.62,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf28}{\kf0}{\kf32}Jin{\kf24}gle{\kf7} {\kf46}all{\kf6} {\kf11}the{\kf0} {\kf32}way{\kf0}
+Dialogue: 0,0:01:16.64,0:01:19.77,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf25}Hey{\kf36} {\kf31}Hey{\kf0}
+Dialogue: 0,0:01:17.62,0:01:22.60,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf94}{\kf0}{\kf26}Oh{\kf4}, {\kf24}what{\kf11} {\kf49}fun{\kf0} {\kf14}it{\kf0} {\kf15}is{\kf14} {\kf19}to{\kf12} {\kf30}ride{\kf0}
+Dialogue: 0,0:01:19.77,0:01:24.83,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}In{\kf0} {\kf20}a{\kf9} {\kf21}one{\kf0}-{\kf35}horse{\kf3} {\kf26}o{\kf17}pen{\kf6} {\kf75}sleigh{\kf0}
+Dialogue: 0,0:01:22.60,0:01:27.68,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf34}Go{\kf0} {\kf22}grab{\kf14} {\kf28}A{\kf31}pple{\kf63}jack{\kf0}
+Dialogue: 0,0:01:24.83,0:01:29.72,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf28}Who's{\kf5} {\kf32}hi{\kf28}ding{\kf4} {\kf21}in{\kf8} {\kf24}the{\kf9} {\kf68}barn{\kf0}
+Dialogue: 0,0:01:27.68,0:01:32.59,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf28}Put{\kf4} {\kf29}her{\kf3} {\kf18}in{\kf13} {\kf21}the{\kf11} {\kf30}back{\kf22}
+Dialogue: 0,0:01:29.72,0:01:34.90,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf10}{\kf18}And{\kf16} {\kf20}leave{\kf15} {\kf27}be{\kf32}hind{\kf5} {\kf22}the{\kf7} {\kf58}farm{\kf0}
+Dialogue: 0,0:01:32.59,0:01:37.79,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf46}Sky{\kf0} {\kf20}is{\kf11} {\kf33}clear{\kf0} {\kf28}and{\kf4} {\kf67}blue{\kf0}
+Dialogue: 0,0:01:34.90,0:01:39.93,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf17}And{\kf0} {\kf14}the{\kf6} {\kf29}wind{\kf0} {\kf25}is{\kf7} {\kf33}at{\kf0} {\kf32}our{\kf0} {\kf59}tails{\kf0}
+Dialogue: 0,0:01:37.79,0:01:45.65,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf33}Po{\kf21}nies{\kf4}, {\kf29}hold{\kf4} {\kf25}on{\kf7} {\kf28}tight{\kf5} {\kf27}be{\kf26}cause{\kf0}
+Dialogue: 0,0:01:39.93,0:01:50.69,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf21}We're{\kf14} {\kf31}'bout{\kf4} {\kf12}to{\kf20} {\kf29}tip{\kf2} {\kf29}the{\kf4} {\kf63}scales{\kf0}
+Dialogue: 0,0:01:45.65,0:01:53.22,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf36}To{\kf15}mor{\kf16}row{\kf0} {\kf20}is{\kf7} {\kf36}Christ{\kf19}mas{\kf13} {\kf30}mor{\kf49}ning{\kf0}
+Dialogue: 0,0:01:50.69,0:01:56.06,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf36}To{\kf15}mor{\kf16}row{\kf0} {\kf20}is{\kf7} {\kf36}Christ{\kf19}mas{\kf13} {\kf54}day{\kf0}
+Dialogue: 0,0:01:53.22,0:01:58.22,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf23}And{\kf4} {\kf40}San{\kf18}ta's{\kf8} {\kf24}co{\kf21}ming{\kf12} {\kf30}'round{\kf0} {\kf21}the{\kf25} {\kf32}cor{\kf19}ner{\kf0}
+Dialogue: 0,0:01:56.06,0:02:00.52,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf25}And{\kf11} {\kf19}he's{\kf13} {\kf20}bring{\kf26}ing{\kf3} {\kf30}pre{\kf32}sents{\kf0}
+Dialogue: 0,0:01:58.22,0:02:03.04,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf38}'Cause{\kf3} {\kf28}he's{\kf4} {\kf14}been{\kf18} {\kf17}fil{\kf19}ling{\kf12} {\kf13}up{\kf19} {\kf15}that{\kf0}
+Dialogue: 0,0:02:00.52,0:02:05.12,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf22}Fil{\kf23}ling{\kf5} {\kf15}up{\kf13} {\kf17}that{\kf18} {\kf31}San{\kf17}ta{\kf5} {\kf46}sleigh{\kf0}
+Dialogue: 0,0:02:03.04,0:02:07.81,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf17}We{\kf13} {\kf31}start{\kf0} {\kf29}spee{\kf27}ding{\kf4} {\kf43}up{\kf0}
+Dialogue: 0,0:02:05.12,0:02:09.90,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf19}As{\kf14} {\kf28}co{\kf23}lors{\kf8} {\kf18}start{\kf12} {\kf11}to{\kf19} {\kf63}show{\kf0}
+Dialogue: 0,0:02:07.81,0:02:12.60,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf31}Strea{\kf17}ming{\kf13} {\kf20}through{\kf9} {\kf20}our{\kf12} {\kf45}manes{\kf24}
+Dialogue: 0,0:02:09.90,0:02:14.87,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf27}The{\kf3} {\kf32}high{\kf20}er{\kf6} {\kf18}up{\kf13} {\kf17}we{\kf11} {\kf44}go{\kf0}
+Dialogue: 0,0:02:12.60,0:02:16.86,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf29}E{\kf14}ven{\kf18} {\kf25}fas{\kf16}ter{\kf12} {\kf48}still{\kf0}
+Dialogue: 0,0:02:14.87,0:02:19.11,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf22}Fa{\kf28}ces{\kf11} {\kf25}fear{\kf24}ing{\kf5} {\kf66}doom{\kf0}
+Dialogue: 0,0:02:16.86,0:02:21.68,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf20}What{\kf10} {\kf26}fun{\kf4} {\kf17}it{\kf9} {\kf15}is{\kf13} {\kf15}to{\kf13} {\kf30}fly{\kf0} {\kf10}and{\kf4} {\kf33}sing{\kf0}
+Dialogue: 0,0:02:19.11,0:02:22.58,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf19}As{\kf10} {\kf19}we{\kf13} {\kf29}so{\kf17}nic{\kf10} {\kf28}rain{\kf50}boom{\kf0}
+Dialogue: 0,0:02:21.68,0:02:23.56,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf31}Jin{\kf25}gle{\kf11} {\kf21}bells{\kf0}
+Dialogue: 0,0:02:22.58,0:02:23.85,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}Hey{\kf0}
+Dialogue: 0,0:02:23.56,0:02:24.64,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf29}{\kf0}{\kf32}Jin{\kf16}gle{\kf10} {\kf21}bells{\kf0}
+Dialogue: 0,0:02:23.85,0:02:25.49,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf79}{\kf0}{\kf34}Hey{\kf0}
+Dialogue: 0,0:02:24.64,0:02:26.48,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf35}{\kf0}{\kf33}Jin{\kf22}gle{\kf4} {\kf45}all{\kf0} {\kf12}the{\kf5} {\kf28}way{\kf0}
+Dialogue: 0,0:02:25.49,0:02:28.39,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}Hey{\kf29} {\kf30}Hey{\kf0}
+Dialogue: 0,0:02:26.48,0:02:30.99,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf87}{\kf0}{\kf21}Oh{\kf11}, {\kf27}what{\kf0} {\kf46}fun{\kf0} {\kf15}it{\kf3} {\kf16}is{\kf8} {\kf13}to{\kf14} {\kf26}fly{\kf0}
+Dialogue: 0,0:02:28.39,0:02:31.89,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf14}In{\kf0} {\kf11}a{\kf7} {\kf26}one{\kf0}-{\kf30}horse{\kf2} {\kf25}o{\kf22}pen{\kf0} {\kf51}sleigh{\kf0}
+Dialogue: 0,0:02:30.99,0:02:32.89,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf32}Jin{\kf16}gle{\kf10} {\kf21}bells{\kf0}
+Dialogue: 0,0:02:31.89,0:02:33.16,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}Hey{\kf0}
+Dialogue: 0,0:02:32.89,0:02:34.01,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf29}{\kf0}{\kf32}Jin{\kf16}gle{\kf10} {\kf21}bells{\kf0}
+Dialogue: 0,0:02:33.16,0:02:34.81,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf86}{\kf0}{\kf29}Hey{\kf0}
+Dialogue: 0,0:02:34.01,0:02:35.79,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf33}{\kf0}{\kf33}Jin{\kf22}gle{\kf4} {\kf45}all{\kf0} {\kf12}the{\kf5} {\kf28}way{\kf0}
+Dialogue: 0,0:02:34.81,0:02:37.71,Default English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}Hey{\kf29} {\kf28}Hey{\kf0}
+Dialogue: 0,0:02:35.79,0:02:39.60,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf89}{\kf0}{\kf21}Oh{\kf11}, {\kf27}what{\kf0} {\kf46}fun{\kf0} {\kf15}it{\kf3} {\kf16}is{\kf8} {\kf13}to{\kf14} {\kf26}ride{\kf0}
+Dialogue: 0,0:02:37.71,0:02:42.75,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}In{\kf0} {\kf16}a{\kf0} {\kf30}one{\kf28}-{\kf40}horse{\kf20} {\kf57}o{\kf33}pen{\kf15} {\kf51}sleigh{\kf0}
+Dialogue: 0,0:00:00.00,0:00:01.78,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf26}{\kf21}一{\kf43}  {\kf31}二{\kf57}
+Dialogue: 0,0:00:00.53,0:00:03.96,Default Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf20}一{\kf11}  {\kf20}二{\kf11}  {\kf19}三{\kf9}  {\kf33}四{\kf0}
+Dialogue: 0,0:00:01.78,0:00:06.80,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf20}冲{\kf34}出{\kf8}{\kf23}大{\kf8}{\kf30}风{\kf5}{\kf59}雪{\kf0}
+Dialogue: 0,0:00:03.96,0:00:09.35,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}身{\kf0}{\kf20}后{\kf9}{\kf21}雪{\kf0}{\kf35}橇{\kf3}{\kf26}响{\kf17}叮{\kf6}{\kf75}当{\kf0}
+Dialogue: 0,0:00:06.80,0:00:10.94,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf35}飞{\kf25}奔{\kf6}{\kf24}过{\kf6}{\kf24}田{\kf1}{\kf30}野{\kf0}
+Dialogue: 0,0:00:09.35,0:00:11.88,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf35}欢{\kf25}笑{\kf6}{\kf24}又{\kf6}{\kf24}歌{\kf1}{\kf30}唱{\kf0}
+Dialogue: 0,0:00:10.94,0:00:14.40,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf21}哈{\kf17}  {\kf17}哈{\kf9}  {\kf25}哈{\kf0}
+Dialogue: 0,0:00:11.88,0:00:16.63,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf28}铃{\kf6}{\kf17}声{\kf11}{\kf20}响{\kf10}{\kf28}叮{\kf8}{\kf45}当{\kf19}
+Dialogue: 0,0:00:14.40,0:00:19.10,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\kf100}{\be3}{\fad(250,250)}{\kf34}精{\kf15}神{\kf43}多{\kf37}欢{\kf64}畅{\kf177}
+Dialogue: 0,0:00:16.63,0:00:21.33,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf22}今{\kf9}{\kf32}晚{\kf3}{\kf28}滑{\kf2}{\kf16}雪{\kf15}{\kf24}多{\kf8}{\kf31}么{\kf0}{\kf17}快{\kf7}{\kf29}乐{\kf0}
+Dialogue: 0,0:00:19.10,0:00:22.93,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf23}听{\kf5}{\kf38}我{\kf22}把{\kf6}{\kf26}歌{\kf7}{\kf34}儿{\kf31}唱{\kf0}
+Dialogue: 0,0:00:21.33,0:00:23.93,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf59}噢{\kf9}  {\kf30}叮{\kf20}叮{\kf11}{\kf31}当{\kf0}
+Dialogue: 0,0:00:22.93,0:00:24.20,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}嘿{\kf0}
+Dialogue: 0,0:00:23.93,0:00:25.19,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf29}{\kf0}{\kf37}叮{\kf19}叮{\kf11}{\kf30}当{\kf0}
+Dialogue: 0,0:00:24.20,0:00:26.10,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf31}嘿{\kf0}
+Dialogue: 0,0:00:25.19,0:00:27.10,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf33}{\kf0}{\kf32}铃{\kf24}儿{\kf7}{\kf46}响{\kf6}{\kf11}叮{\kf0}{\kf32}当{\kf0}
+Dialogue: 0,0:00:26.10,0:00:29.26,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}嘿{\kf35}{\kf26}嘿{\kf0}
+Dialogue: 0,0:00:27.10,0:00:32.06,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf94}{\kf0}{\kf26}自{\kf4}{\kf24}由{\kf11}{\kf49}飞{\kf0}{\kf14}翔{\kf0}{\kf15}多{\kf14}{\kf19}快{\kf12}{\kf30}乐{\kf0}
+Dialogue: 0,0:00:29.26,0:00:33.04,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}身{\kf0}{\kf20}后{\kf9}{\kf21}雪{\kf0}{\kf35}橇{\kf3}{\kf26}响{\kf17}叮{\kf6}{\kf75}当{\kf0}
+Dialogue: 0,0:00:32.06,0:00:34.04,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf37}叮{\kf19}叮{\kf11}{\kf30}当{\kf0}
+Dialogue: 0,0:00:33.04,0:00:34.35,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf31}嘿{\kf0}
+Dialogue: 0,0:00:34.04,0:00:35.27,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf31}{\kf0}{\kf37}叮{\kf19}叮{\kf11}{\kf30}当{\kf0}
+Dialogue: 0,0:00:34.35,0:00:36.20,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf95}{\kf0}{\kf24}嘿{\kf0}
+Dialogue: 0,0:00:35.27,0:00:37.20,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf31}{\kf0}{\kf32}铃{\kf24}儿{\kf7}{\kf46}响{\kf6}{\kf11}叮{\kf0}{\kf32}当{\kf0}
+Dialogue: 0,0:00:36.20,0:00:39.35,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf30}嘿{\kf32}  {\kf29}嘿{\kf0}
+Dialogue: 0,0:00:37.20,0:00:42.20,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf92}{\kf0}{\kf26}自{\kf4}{\kf24}在{\kf11}{\kf49}奔{\kf0}{\kf14}跑{\kf0}{\kf15}多{\kf14}{\kf19}快{\kf12}{\kf30}乐{\kf0}
+Dialogue: 0,0:00:39.35,0:00:44.40,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}谁{\kf0}{\kf20}来{\kf9}{\kf21}坐{\kf0}{\kf35}这{\kf3}{\kf26}雪{\kf17}橇{\kf6}{\kf75}上{\kf0}
+Dialogue: 0,0:00:42.20,0:00:47.24,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf32}找{\kf0}{\kf19}几{\kf12}{\kf22}个{\kf7}{\kf36}朋{\kf0}{\kf70}友{\kf0}
+Dialogue: 0,0:00:44.40,0:00:49.42,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf19}带{\kf7}{\kf30}她{\kf7}{\kf21}们{\kf9}{\kf32}去{\kf0}{\kf17}游{\kf14}{\kf68}逛{\kf0}
+Dialogue: 0,0:00:47.24,0:00:51.97,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf19}不{\kf15}{\kf19}知{\kf7}{\kf28}为{\kf8}{\kf30}什{\kf3}{\kf23}么{\kf17}
+Dialogue: 0,0:00:49.42,0:00:54.52,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf20}却{\kf18}{\kf29}纷{\kf24}纷{\kf10}{\kf30}躲{\kf0}{\kf21}又{\kf9}{\kf61}藏{\kf0}
+Dialogue: 0,0:00:51.97,0:00:57.35,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf10}{\kf18}让{\kf8}{\kf15}瑞{\kf15}瑞{\kf19}坐{\kf10}{\kf24}在{\kf10}{\kf30}后{\kf3}{\kf47}面{\kf0}
+Dialogue: 0,0:00:54.52,0:00:59.54,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf26}紧{\kf5}{\kf33}挨{\kf0}{\kf24}着{\kf8}{\kf31}萍{\kf30}琪{\kf0}{\kf47}派{\kf21}
+Dialogue: 0,0:00:57.35,0:01:01.77,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf33}大{\kf18}家{\kf14}{\kf32}扣{\kf29}好{\kf2}{\kf26}安{\kf0}{\kf36}全{\kf0}{\kf18}带{\kf0}
+Dialogue: 0,0:00:59.54,0:01:03.36,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf18}我{\kf17}{\kf26}带{\kf3}{\kf31}你{\kf32}去{\kf0}{\kf22}飞{\kf5}{\kf44}翔{\kf0}
+Dialogue: 0,0:01:01.77,0:01:04.34,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf59}噢{\kf9}  {\kf30}叮{\kf20}叮{\kf11}{\kf31}当{\kf0}
+Dialogue: 0,0:01:03.36,0:01:04.62,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf26}嘿{\kf0}
+Dialogue: 0,0:01:04.34,0:01:05.60,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf30}{\kf0}{\kf37}叮{\kf19}叮{\kf11}{\kf30}当{\kf0}
+Dialogue: 0,0:01:04.62,0:01:06.53,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf99}{\kf0}{\kf29}嘿{\kf0}
+Dialogue: 0,0:01:05.60,0:01:07.52,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf32}{\kf0}{\kf32}铃{\kf24}儿{\kf7}{\kf46}响{\kf6}{\kf11}叮{\kf0}{\kf32}当{\kf0}
+Dialogue: 0,0:01:06.53,0:01:09.67,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf29}嘿{\kf33}  {\kf24}嘿{\kf0}
+Dialogue: 0,0:01:07.52,0:01:12.50,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf94}{\kf0}{\kf26}自{\kf4}{\kf24}由{\kf11}{\kf49}飞{\kf0}{\kf14}翔{\kf0}{\kf15}多{\kf14}{\kf19}快{\kf12}{\kf30}乐{\kf0}
+Dialogue: 0,0:01:09.67,0:01:13.47,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}朋{\kf0}{\kf20}友{\kf9}{\kf21}坐{\kf0}{\kf35}在{\kf3}{\kf26}雪{\kf17}橇{\kf6}{\kf75}上{\kf0}
+Dialogue: 0,0:01:12.50,0:01:14.45,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf37}叮{\kf19}叮{\kf11}{\kf30}当{\kf0}
+Dialogue: 0,0:01:13.47,0:01:14.77,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf30}嘿{\kf0}
+Dialogue: 0,0:01:14.45,0:01:15.69,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf32}{\kf0}{\kf37}叮{\kf19}叮{\kf11}{\kf30}当{\kf0}
+Dialogue: 0,0:01:14.77,0:01:16.64,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf92}{\kf0}{\kf28}嘿{\kf0}
+Dialogue: 0,0:01:15.69,0:01:17.62,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf28}{\kf0}{\kf32}铃{\kf24}儿{\kf7}{\kf46}响{\kf6}{\kf11}叮{\kf0}{\kf32}当{\kf0}
+Dialogue: 0,0:01:16.64,0:01:19.77,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf25}嘿{\kf36}  {\kf31}嘿{\kf0}
+Dialogue: 0,0:01:17.62,0:01:22.60,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf94}{\kf0}{\kf26}自{\kf4}{\kf24}在{\kf11}{\kf49}奔{\kf0}{\kf14}跑{\kf0}{\kf15}多{\kf14}{\kf19}快{\kf12}{\kf30}乐{\kf0}
+Dialogue: 0,0:01:19.77,0:01:24.83,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}还{\kf0}{\kf20}有{\kf9}{\kf21}谁{\kf0}{\kf35}来{\kf3}{\kf26}一{\kf17}起{\kf6}{\kf75}浪{\kf0}
+Dialogue: 0,0:01:22.60,0:01:27.68,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf34}去{\kf0}{\kf22}拉{\kf14}{\kf28}上{\kf31}阿{\kf63}杰{\kf0}
+Dialogue: 0,0:01:24.83,0:01:29.72,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf28}她{\kf5}{\kf32}躲{\kf28}藏{\kf4}{\kf21}在{\kf8}{\kf24}谷{\kf9}{\kf68}仓{\kf0}
+Dialogue: 0,0:01:27.68,0:01:32.59,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf28}通{\kf4}{\kf29}通{\kf3}{\kf18}坐{\kf13}{\kf21}后{\kf11}{\kf30}面{\kf22}
+Dialogue: 0,0:01:29.72,0:01:34.90,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf10}{\kf18}又{\kf16}{\kf20}飞{\kf15}{\kf27}奔{\kf32}出{\kf5}{\kf22}农{\kf7}{\kf58}场{\kf0}
+Dialogue: 0,0:01:32.59,0:01:37.79,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf46}天{\kf0}{\kf20}空{\kf11}{\kf33}多{\kf0}{\kf28}晴{\kf4}{\kf67}朗{\kf0}
+Dialogue: 0,0:01:34.90,0:01:39.93,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf17}鬃{\kf0}{\kf14}毛{\kf6}{\kf29}也{\kf0}{\kf25}随{\kf7}{\kf33}风{\kf0}{\kf32}飘{\kf0}{\kf59}荡{\kf0}
+Dialogue: 0,0:01:37.79,0:01:45.65,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf33}大{\kf21}家{\kf4}{\kf29}快{\kf4}{\kf25}点{\kf7}{\kf28}抓{\kf5}{\kf27}稳{\kf26}喽{\kf0}
+Dialogue: 0,0:01:39.93,0:01:50.69,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf21}咱{\kf14}{\kf31}这{\kf4}{\kf12}就{\kf20}{\kf29}要{\kf2}{\kf29}转{\kf4}{\kf63}向{\kf0}
+Dialogue: 0,0:01:45.65,0:01:53.22,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\kf100}{\be3}{\fad(250,250)}{\kf36}明{\kf31}天{\kf20}就{\kf7}{\kf36}是{\kf19}圣{\kf13}{\kf30}诞{\kf49}节{\kf416}
+Dialogue: 0,0:01:50.69,0:01:56.06,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf36}全{\kf15}年{\kf16}就{\kf0}{\kf20}等{\kf7}{\kf36}这{\kf19}一{\kf13}{\kf54}天{\kf0}
+Dialogue: 0,0:01:53.22,0:01:58.22,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf23}圣{\kf4}{\kf40}诞{\kf18}老{\kf8}{\kf24}人{\kf21}即{\kf12}{\kf30}将{\kf0}{\kf21}要{\kf25}{\kf32}出{\kf19}现{\kf0}
+Dialogue: 0,0:01:56.06,0:02:00.52,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf25}礼{\kf11}{\kf19}物{\kf13}{\kf20}琳{\kf26}琅{\kf3}{\kf30}满{\kf32}目{\kf0}
+Dialogue: 0,0:01:58.22,0:02:03.04,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf38}因{\kf3}{\kf28}为{\kf4}{\kf14}他{\kf18}{\kf17}装{\kf19}了{\kf12}{\kf13}满{\kf19}{\kf15}满{\kf0}
+Dialogue: 0,0:02:00.52,0:02:05.12,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf22}装{\kf23}了{\kf5}{\kf15}满{\kf13}{\kf17}满{\kf18}{\kf31}一{\kf17}雪{\kf5}{\kf46}橇{\kf0}
+Dialogue: 0,0:02:03.04,0:02:07.81,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf17}快{\kf13}{\kf31}马{\kf0}{\kf29}又{\kf27}加{\kf4}{\kf43}鞭{\kf0}
+Dialogue: 0,0:02:05.12,0:02:09.90,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf19}拉{\kf14}{\kf28}出{\kf23}七{\kf8}{\kf18}色{\kf12}{\kf11}光{\kf19}{\kf63}芒{\kf0}
+Dialogue: 0,0:02:07.81,0:02:12.60,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\kf100}{\be3}{\fad(250,250)}{\kf48}流淌在{\kf13}{\kf20}鬃{\kf9}{\kf20}毛{\kf12}{\kf45}间{\kf212}
+Dialogue: 0,0:02:09.90,0:02:14.87,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf27}直{\kf3}{\kf32}冲{\kf20}九{\kf6}{\kf18}霄{\kf13}{\kf17}云{\kf11}{\kf44}上{\kf0}
+Dialogue: 0,0:02:12.60,0:02:16.86,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf29}速{\kf14}度{\kf18}{\kf25}再{\kf16}加{\kf12}{\kf48}快{\kf0}
+Dialogue: 0,0:02:14.87,0:02:19.11,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf22}别{\kf28}满{\kf11}{\kf25}脸{\kf24}慌{\kf5}{\kf66}张{\kf0}
+Dialogue: 0,0:02:16.86,0:02:21.68,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\kf100}{\be3}{\fad(250,250)}{\kf20}边{\kf10}{\kf26}飞{\kf4}{\kf17}边{\kf9}{\kf43}唱{\kf13}{\kf30}多{\kf10}快{\kf4}{\kf33}乐{\kf163}
+Dialogue: 0,0:02:19.11,0:02:22.58,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf19}彩{\kf10}{\kf19}虹{\kf13}{\kf29}音{\kf17}爆{\kf10}{\kf28}登{\kf50}场{\kf0}
+Dialogue: 0,0:02:21.68,0:02:23.56,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf31}叮{\kf25}叮{\kf11}{\kf21}当{\kf0}
+Dialogue: 0,0:02:22.58,0:02:23.85,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}嘿{\kf0}
+Dialogue: 0,0:02:23.56,0:02:24.64,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf29}{\kf0}{\kf32}叮{\kf16}叮{\kf10}{\kf21}当{\kf0}
+Dialogue: 0,0:02:23.85,0:02:25.49,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf79}{\kf0}{\kf34}嘿{\kf0}
+Dialogue: 0,0:02:24.64,0:02:26.48,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf35}{\kf0}{\kf33}铃{\kf22}儿{\kf4}{\kf45}响{\kf0}{\kf12}叮{\kf5}{\kf28}当{\kf0}
+Dialogue: 0,0:02:25.49,0:02:28.39,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}嘿{\kf29}  {\kf30}嘿{\kf0}
+Dialogue: 0,0:02:26.48,0:02:30.99,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf87}{\kf0}{\kf21}自{\kf11}{\kf27}在{\kf0}{\kf46}飞{\kf0}{\kf15}翔{\kf3}{\kf16}多{\kf8}{\kf13}快{\kf14}{\kf26}乐{\kf0}
+Dialogue: 0,0:02:28.39,0:02:31.89,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf14}朋{\kf0}{\kf11}友{\kf7}{\kf26}坐{\kf0}{\kf30}在{\kf2}{\kf25}雪{\kf22}橇{\kf0}{\kf51}上{\kf0}
+Dialogue: 0,0:02:30.99,0:02:32.89,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf32}叮{\kf16}叮{\kf10}{\kf21}当{\kf0}
+Dialogue: 0,0:02:31.89,0:02:33.16,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}嘿{\kf0}
+Dialogue: 0,0:02:32.89,0:02:34.01,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf29}{\kf0}{\kf32}叮{\kf16}叮{\kf10}{\kf21}当{\kf0}
+Dialogue: 0,0:02:33.16,0:02:34.81,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf86}{\kf0}{\kf29}嘿{\kf0}
+Dialogue: 0,0:02:34.01,0:02:35.79,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf33}{\kf0}{\kf33}铃{\kf22}儿{\kf4}{\kf45}响{\kf0}{\kf12}叮{\kf5}{\kf28}当{\kf0}
+Dialogue: 0,0:02:34.81,0:02:37.71,Default Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf27}嘿{\kf29}  {\kf28}嘿{\kf0}
+Dialogue: 0,0:02:35.79,0:02:39.60,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf89}{\kf0}{\kf21}自{\kf11}{\kf27}由{\kf0}{\kf46}奔{\kf0}{\kf15}跑{\kf3}{\kf16}多{\kf8}{\kf13}快{\kf14}{\kf26}乐{\kf0}
+Dialogue: 0,0:02:37.71,0:02:42.75,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\be3}{\fad(250,250)}{\kf100}{\kf0}{\kf14}我{\kf0}{\kf16}们{\kf0}{\kf30}启{\kf28}{\kf40}程{\kf20}{\kf57}去{\kf33}远{\kf15}{\kf51}方{\kf0}
+Dialogue: 2,0:02:46.59,0:02:48.59,Credit,,0,0,0,,{\fad(250,250)}翻译/校对/润色\N{\fs95}Rogerdaily
+Dialogue: 2,0:02:48.60,0:02:50.60,Credit,,0,0,0,,{\fad(250,250)}背景图绘制\N{\fs95}Luka
+Dialogue: 2,0:02:50.61,0:02:52.61,Credit,,0,0,0,,{\fad(250,250)}时间轴\N{\fs95}BronyDee
+Dialogue: 2,0:02:52.62,0:02:54.62,Credit,,0,0,0,,{\fad(250,250)}制作\N{\fs95}习成 PBU 工作组
+Dialogue: 2,0:02:54.63,0:03:00.00,Credit,,0,0,0,,{\fad(1000,0)}{\fs130}感谢观看
+Dialogue: 1,0:00:00.00,0:00:00.26,Overlay Screen,,0,0,0,,{\fad(0,260)}{\p1\c&HFFFFFF&}m 0 0 l 1920 0 1920 1080 0 1080{\p0}
+Dialogue: 1,0:02:44.59,0:03:00.00,Overlay Screen,,0,0,0,,{\fad(1000,0)}{\p1}m 0 0 l 1920 0 1920 1080 0 1080{\p0}

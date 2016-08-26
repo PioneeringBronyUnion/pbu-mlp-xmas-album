@@ -1,0 +1,85 @@
+﻿[Script Info]
+Title: Jolly ol' St. Nick
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Original Translation: 轮回
+Original Editing: 包子
+Original Timing: 蛟龙  Loadhe
+Script Updated By: 森林金雨  Loadhe
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Credit,思源黑体 Heavy,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Overlay Screen,Arial,20,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Spike English 1st Line,Lucida Sans,60,&H0005DD5C,&H0001481D,&H00AB418F,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,220,1
+Style: Spike English 2nd Line,Lucida Sans,60,&H0005DD5C,&H0001481D,&H00AB418F,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Spike Mandarin 1st Line,思源黑体 Heavy,80,&H0005DD5C,&H0001481D,&H00AB418F,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,220,1
+Style: Spike Mandarin 2nd Line,思源黑体 Heavy,80,&H0005DD5C,&H0001481D,&H00AB418F,&H00000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:09.65,0:00:19.80,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf27}Jo{\kf48}lly {\kf28}old {\kf30}St. {\kf24}Ni{\kf28}cho{\kf79}las, {\kf33}lean {\kf27}your {\kf23}ear {\kf26}this {\kf90}way{\kf42}
+Dialogue: 0,0:00:09.65,0:00:19.80,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf27}快{\kf48}乐{\kf28}的{\kf30}圣{\kf24}诞{\kf28}老{\kf79}人  {\kf33}耳{\kf27}朵{\kf23}凑{\kf26}过{\kf90}来{\kf42}
+Dialogue: 0,0:00:14.70,0:00:24.85,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf36}Don't {\kf30}you {\kf30}tell{\kf21} a {\kf31}sin{\kf22}gle {\kf50}soul{\kf43} {\kf34}what {\kf27}I'm {\kf20}gon{\kf14}na {\kf77}say{\kf75}
+Dialogue: 0,0:00:14.70,0:00:24.85,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf36}接{\kf30}下{\kf30}来{\kf21}我{\kf31}说{\kf22}的{\kf50}话{\kf43}  {\kf34}千{\kf27}万{\kf20}别{\kf14}公{\kf77}开{\kf75}
+Dialogue: 0,0:00:19.80,0:00:29.85,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf35}Christ{\kf30}mas {\kf48}Eve {\kf19}is {\kf24}com{\kf16}ing {\kf86}soon, {\kf31}now, {\kf24}you {\kf17}dear {\kf42}old {\kf133}man
+Dialogue: 0,0:00:19.80,0:00:29.85,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf35}平{\kf30}安{\kf48}夜{\kf19}即{\kf24}将{\kf16}到{\kf86}来  {\kf31}亲{\kf24}爱{\kf17}的{\kf42}老{\kf133}人
+Dialogue: 0,0:00:24.85,0:00:35.60,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf31}Whis{\kf21}per {\kf37}what {\kf40}you'll {\kf18}bring {\kf29}to {\kf70}me, {\kf40}tell {\kf33}me {\kf22}if {\kf28}you {\kf67}can{\kf64}
+Dialogue: 0,0:00:24.85,0:00:35.60,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf31}请{\kf21}你{\kf37}悄{\kf40}悄{\kf18}告{\kf29}诉{\kf70}我  {\kf40}会{\kf33}带{\kf22}什{\kf28}么{\kf67}来{\kf64}
+Dialogue: 0,0:00:29.85,0:00:40.35,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf106}Jo{\kf39}lly {\kf44}old {\kf69}St. {\kf18}Ni{\kf38}cho{\kf156}las{\kf105}
+Dialogue: 0,0:00:29.85,0:00:40.35,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf106}快{\kf39}乐{\kf44}的{\kf69}圣{\kf18}诞{\kf38}老{\kf156}人{\kf105}
+Dialogue: 0,0:00:35.60,0:00:45.40,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf26}What{\kf36}cha {\kf28}gon{\kf22}na {\kf44}bring {\kf24}to {\kf198}me?{\kf97}
+Dialogue: 0,0:00:35.60,0:00:45.40,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf26}你{\kf36}会{\kf28}带{\kf22}什{\kf44}么{\kf24}给{\kf198}我{\kf97}
+Dialogue: 0,0:00:40.35,0:00:50.10,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf28}Is {\kf39}it {\kf15}a {\kf47}stash {\kf15}of {\kf39}gems {\kf25}that I {\kf13}can {\kf19}eat {\kf45}all {\kf22}day {\kf28}and {\kf108}night?{\kf62}
+Dialogue: 0,0:00:40.35,0:00:50.10,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf28}是{\kf39}一{\kf15}大{\kf47}堆{\kf15}够{\kf39}我{\kf25}吃上{\kf13}一{\kf19}辈{\kf45}子{\kf22}的{\kf28}宝{\kf108}石{\kf62}
+Dialogue: 0,0:00:45.40,0:00:55.25,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf32}Or {\kf39}is it {\kf27}a {\kf22}dia{\kf29}mond {\kf87}ring {\kf37}that I {\kf16}can {\kf27}give {\kf34}to {\kf44}Rari{\kf76}ty?
+Dialogue: 0,0:00:45.40,0:00:55.25,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf32}又{\kf39}或{\kf27}一{\kf22}枚{\kf29}钻{\kf87}戒{\kf37}让我{\kf16}向{\kf27}瑞{\kf34}瑞{\kf44}表心{\kf76}意
+Dialogue: 0,0:00:50.10,0:01:00.20,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf38}When {\kf22}the {\kf31}clock {\kf56}is stri{\kf26}king {\kf85}twelve {\kf31}and {\kf28}I'm {\kf36}fast {\kf66}asleep{\kf96}
+Dialogue: 0,0:00:50.10,0:01:00.20,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf38}时{\kf22}针{\kf31}指{\kf56}向十{\kf26}二{\kf85}点{\kf31}我{\kf28}在{\kf36}深{\kf66}梦里{\kf96}
+Dialogue: 0,0:00:55.25,0:01:05.30,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf29}Down {\kf21}the {\kf33}chi{\kf40}mney {\kf31}broad {\kf20}and {\kf74}black, {\kf33}with {\kf30}your {\kf21}pack {\kf29}you'll {\kf60}creep{\kf74}
+Dialogue: 0,0:00:55.25,0:01:05.30,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf29}烟{\kf21}囱{\kf33}下{\kf40}你{\kf31}宽{\kf20}又{\kf74}黑  {\kf33}弯{\kf30}腰{\kf21}的{\kf29}身{\kf60}影{\kf74}
+Dialogue: 0,0:01:00.20,0:01:13.15,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf37}All {\kf14}the {\kf52}stoc{\kf30}kings {\kf50}you will {\kf77}find {\kf62}hanging {\kf22}in {\kf19}a {\kf107}row{\kf40}
+Dialogue: 0,0:01:00.20,0:01:13.15,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf37}挂{\kf14}成{\kf52}排{\kf30}的{\kf50}长袜{\kf77}里  {\kf62}你将{\kf22}会{\kf19}看{\kf107}见{\kf40}
+Dialogue: 0,0:01:05.30,0:01:18.20,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf35}Mine {\kf30}will {\kf30}be {\kf15}the {\kf66}shortest {\kf44}one{\kf35}, {\kf31}you'll {\kf16}be {\kf36}sure {\kf25}to {\kf68}know{\kf39}
+Dialogue: 0,0:01:05.30,0:01:18.20,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf35}最{\kf30}短{\kf30}的{\kf15}那{\kf66}只是我{\kf44}的{\kf35}  {\kf31}你{\kf16}肯{\kf36}定{\kf25}知{\kf68}道{\kf39}
+Dialogue: 0,0:01:13.15,0:01:21.65,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf30}Come {\kf10}and {\kf19}give {\kf13}me {\kf26}those {\kf25}Christ{\kf29}mas {\kf18}pre{\kf75}sents
+Dialogue: 0,0:01:13.15,0:01:21.65,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf30}快{\kf10}把{\kf19}我{\kf13}圣{\kf26}诞{\kf25}礼{\kf29}物{\kf18}带{\kf75}来
+Dialogue: 0,0:01:18.20,0:01:27.00,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf39}Don't {\kf23}make {\kf33}me {\kf26}wait {\kf25}no {\kf58}more{\kf26}
+Dialogue: 0,0:01:18.20,0:01:27.00,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf39}别{\kf23}再{\kf33}让{\kf26}我{\kf25}等{\kf58}待{\kf26}
+Dialogue: 0,0:01:21.65,0:01:30.60,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf21}Give {\kf14}me {\kf36}some {\kf15}pre{\kf49}sents{\kf20}
+Dialogue: 0,0:01:21.65,0:01:30.60,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf21}带{\kf14}给{\kf36}我{\kf15}礼{\kf49}物{\kf20}
+Dialogue: 0,0:01:27.00,0:01:35.60,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf42}Come {\kf20}give {\kf23}it to {\kf15}me, {\kf55}San{\kf62}ta, {\kf61}yeah!{\kf82}
+Dialogue: 0,0:01:27.00,0:01:35.60,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf42}快{\kf20}带{\kf23}来给{\kf15}我  {\kf55}老{\kf62}人  {\kf61}耶!{\kf82}
+Dialogue: 0,0:01:30.60,0:01:40.65,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf32}Pinkie {\kf31}Pie {\kf36}wants {\kf29}a {\kf44}candy {\kf72}hat {\kf10}and {\kf58}Applejack {\kf35}wants {\kf18}to {\kf46}coo{\kf39}k{\kf50}
+Dialogue: 0,0:01:30.60,0:01:40.65,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf32}萍琪{\kf31}派{\kf36}要{\kf29}顶{\kf44}糖果{\kf72}帽  {\kf10}而{\kf58}阿杰{\kf35}想{\kf18}要{\kf46}下{\kf39}厨{\kf50}
+Dialogue: 0,0:01:35.60,0:01:45.35,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf32}Rain{\kf39}bow {\kf29}wants {\kf30}a {\kf49}lightning {\kf58}chain {\kf17}and {\kf32}Twi{\kf34}light {\kf49}wants a {\kf44}book{\kf92}
+Dialogue: 0,0:01:35.60,0:01:45.35,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf32}云{\kf39}宝{\kf29}要{\kf30}闪{\kf49}电项{\kf58}链  {\kf17}而{\kf32}暮{\kf34}暮{\kf49}要本{\kf44}书{\kf92}
+Dialogue: 0,0:01:40.65,0:01:50.75,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf61}Rarity {\kf38}wants {\kf16}a {\kf57}set of {\kf67}lace {\kf20}and {\kf65}Fluttershy {\kf46}wants a {\kf64}nest{\kf36}
+Dialogue: 0,0:01:40.65,0:01:50.75,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf61}瑞瑞{\kf38}要{\kf16}一{\kf57}组花{\kf67}边{\kf20}  而{\kf65}小蝶{\kf46}要鸟{\kf64}巢{\kf36}
+Dialogue: 0,0:01:45.35,0:01:56.45,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf37}Now {\kf34}choose {\kf32}for {\kf32}me, {\kf19}dear {\kf31}San{\kf22}ta {\kf49}Clau{\kf38}s, {\kf25}what {\kf31}you {\kf28}think {\kf27}is {\kf68}best{\kf67}
+Dialogue: 0,0:01:45.35,0:01:56.45,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf37}帮{\kf34}我{\kf32}选{\kf32}选  {\kf19}圣{\kf31}诞{\kf22}老{\kf73}人{\kf14}  {\kf25}啥{\kf31}礼{\kf28}物{\kf27}最{\kf68}好{\kf99}
+Dialogue: 0,0:01:50.75,0:02:00.85,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf104}Jo{\kf28}lly {\kf51}old {\kf72}St. {\kf21}Ni{\kf23}cho{\kf84}la{\kf34}s{\kf153}
+Dialogue: 0,0:01:50.75,0:02:00.85,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf104}快{\kf28}乐{\kf51}的{\kf72}圣{\kf21}诞{\kf23}老{\kf84}人{\kf34}{\kf153}
+Dialogue: 0,0:01:56.45,0:02:06.55,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf30}What{\kf23}cha {\kf30}gon{\kf24}na {\kf51}bring {\kf26}to {\kf191}me?{\kf50}
+Dialogue: 0,0:01:56.45,0:02:06.55,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf30}你{\kf23}会{\kf30}带{\kf24}什{\kf51}么{\kf26}给{\kf191}我{\kf50}
+Dialogue: 0,0:02:00.85,0:02:09.05,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf99}Jol{\kf40}ly {\kf50}old {\kf64}St. {\kf24}Ni{\kf28}cho{\kf112}la{\kf28}s{\kf125}
+Dialogue: 0,0:02:00.85,0:02:09.05,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf99}快{\kf40}乐{\kf50}的{\kf64}圣{\kf24}诞{\kf28}老{\kf112}人{\kf28}{\kf125}
+Dialogue: 0,0:02:06.55,0:02:19.70,Spike English 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf29}What{\kf31}cha {\kf23}gon{\kf32}na {\kf38}bring?{\kf97}
+Dialogue: 0,0:02:06.55,0:02:19.70,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf29}你{\kf31}会{\kf23}带{\kf32}什{\kf38}么{\kf97}
+Dialogue: 0,0:02:09.05,0:02:18.40,Spike English 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf29}Wha{\kf34}tcha {\kf26}gon{\kf27}na{\kf37} bring {\kf24}to {\kf259}meeeeee{\kf299}?{\kf0}
+Dialogue: 0,0:02:09.05,0:02:18.40,Spike Mandarin 1st Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf29}你{\kf34}会{\kf26}带{\kf27}什{\kf37}么{\kf24}给{\kf259}我{\kf299}?{\kf0}
+Dialogue: 0,0:02:19.70,0:02:22.90,Spike English 2nd Line,,0,0,0,,{\k112}{\be1}{\fad(250,250)}{\kf70}Yeah!{\kf138}
+Dialogue: 0,0:02:19.70,0:02:22.90,Spike Mandarin 2nd Line,,0,0,0,,{\be1}{\k100}{\fad(250,250)}{\kf70}耶!{\kf138}
+Dialogue: 1,0:00:00.00,0:00:00.30,Overlay Screen,,0,0,0,,{\fad(0,300)}{\p1\c&HFFFFFF&}m 0 0 l 1920 0 1920 1080 0 1080{\p0}
+Dialogue: 1,0:02:21.90,0:03:00.00,Overlay Screen,,0,0,0,,{\fad(1000,0)}{\p1\c&H000000&}m 0 0 l 1920 0 1920 1080 0 1080{\p0}
+Dialogue: 2,0:02:22.90,0:02:24.90,Credit,,0,0,0,,{\fad(250,250)}翻译\N{\fs95}轮回
+Dialogue: 2,0:02:24.90,0:02:26.90,Credit,,0,0,0,,{\fad(100,100)}校对\N{\fs95}森林金雨  Loadhe
+Dialogue: 2,0:02:26.90,0:02:28.90,Credit,,0,0,0,,{\fad(100,100)}润色\N{\fs95}包子
+Dialogue: 2,0:02:28.90,0:02:30.90,Credit,,0,0,0,,{\fad(100,100)}背景图绘制\N{\fs95}缤纷彩彩
+Dialogue: 2,0:02:30.90,0:02:32.90,Credit,,0,0,0,,{\fad(100,100)}时间轴\N{\fs95}蛟龙  Loadhe
+Dialogue: 2,0:02:32.90,0:02:34.90,Credit,,0,0,0,,{\fad(100,100)}制作\N{\fs95}习成 PBU 工作组
+Dialogue: 2,0:02:34.90,0:03:00.00,Credit,,0,0,0,,{\fad(1000,0)}{\fs130}感谢观看

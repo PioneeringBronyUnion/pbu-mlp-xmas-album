@@ -1,0 +1,142 @@
+﻿[Script Info]
+Title: It's a Pony Kind of Christmas
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+PlayResX: 1920
+PlayResY: 1080
+Original Translation: 蛟龙
+Original Editing: 森林金雨
+Script Updated By: 蛟龙  森林金雨
+Original Timing: BronyDee
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Staff Credit (Boardless),思源黑体 Heavy,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+Style: Overlay Screen,Arial,20,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Applejack English 1st Line,Lucida Sans,60,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Applejack English 2nd Line,Lucida Sans,60,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Chorus English 1st Line,Lucida Sans,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Chorus English 2nd Line,Lucida Sans,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Default English 1st Line,Lucida Sans,60,&H00FFFFFF,&H00707070,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,1,60,60,220,1
+Style: Default English 2nd Line,Lucida Sans,60,&H00FFFFFF,&H00707070,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,3,60,60,60,1
+Style: Fluttershy English 1st Line,Lucida Sans,60,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Fluttershy English 2nd Line,Lucida Sans,60,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Pinkie Pie English 1st Line,Lucida Sans,60,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Pinkie Pie English 2nd Line,Lucida Sans,60,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Rainbow Dash English 1st Line,Lucida Sans,60,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Rainbow Dash English 2nd Line,Lucida Sans,60,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,110,1
+Style: Rarity English 1st Line,Lucida Sans,60,&H00F5E6E6,&H00363655,&H00AA5361,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Rarity English 2nd Line,Lucida Sans,60,&H00F5E6E6,&H00363655,&H00AA5361,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Twilight Sparkle English 1st Line,Lucida Sans,60,&H00D399D0,&H00565E6D,&H007B3B29,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Twilight Sparkle English 2nd Line,Lucida Sans,60,&H00D399D0,&H00565E6D,&H007B3B29,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Applejack Mandarin 1st Line,思源黑体 Heavy,80,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Applejack Mandarin 2nd Line,思源黑体 Heavy,80,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Chorus Mandarin 1st Line,思源黑体 Heavy,80,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Chorus Mandarin 2nd Line,思源黑体 Heavy,80,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Default Mandarin 1st Line,思源黑体 Bold,90,&H00FFFFFF,&H00707070,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,1,60,60,220,1
+Style: Default Mandarin 2nd Line,思源黑体 Bold,90,&H00FFFFFF,&H00707070,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,6,0,3,60,60,60,1
+Style: Fluttershy Mandarin 1st Line,思源黑体 Heavy,80,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Fluttershy Mandarin 2nd Line,思源黑体 Heavy,80,&H00B5F3F5,&H00363655,&H00B27EE7,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Pinkie Pie Mandarin 1st Line,思源黑体 Heavy,80,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Pinkie Pie Mandarin 2nd Line,思源黑体 Heavy,80,&H00DFC2F6,&H00363655,&H007F2CCD,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Rainbow Dash Mandarin 1st Line,思源黑体 Heavy,80,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Rainbow Dash Mandarin 2nd Line,思源黑体 Heavy,80,&H00FCE5AB,&H00363655,&H00BB9C52,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Rarity Mandarin 1st Line,思源黑体 Heavy,80,&H00F5E6E6,&H00363655,&H00AA5361,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Rarity Mandarin 2nd Line,思源黑体 Heavy,80,&H00F5E6E6,&H00363655,&H00AA5361,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Twilight Sparkle Mandarin 1st Line,思源黑体 Heavy,80,&H00D399D0,&H00565E6D,&H007B3B29,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Twilight Sparkle Mandarin 2nd Line,思源黑体 Heavy,80,&H00D399D0,&H00565E6D,&H007B3B29,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.34,Chorus English 1st Line,Mane Six,0,0,0,,{\fad(250,250)}{\kf34}{\kf24}{\be2}It's{\kf0} {\kf5}a{\kf8} {\kf44}po{\kf23}ny{\kf6} {\kf37}kind{\kf0} {\kf28}of{\kf14} {\kf36}Christ{\kf42}mas{\kf0}
+Dialogue: 0,0:00:02.35,0:00:08.60,Chorus English 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf27}{\be2}In{\kf8} {\kf38}e{\kf35}very{\kf0} {\kf26}co{\kf41}lor{\kf0} {\kf96}shade{\kf0}
+Dialogue: 0,0:00:05.34,0:00:11.44,Chorus English 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf19}{\be2}All{\kf0} {\kf20}a{\kf35}round{\kf7} {\kf30}the{\kf6} {\kf32}world{\kf5} {\kf15}of{\kf0} {\kf21}E{\kf34}ques{\kf44}tri{\kf50}a
+Dialogue: 0,0:00:08.60,0:00:14.47,Chorus English 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf15}{\be2}It's{\kf4} {\kf23}Christ{\kf18}mas{\kf33}time{\kf4} {\kf51}here{\kf0} {\kf20}to{\kf82}day{\kf8}
+Dialogue: 0,0:00:11.44,0:00:17.48,Chorus English 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf22}{\be2}It's{\kf0} {\kf8}a{\kf10} {\kf37}po{\kf30}ny{\kf6} {\kf32}kind{\kf5} {\kf32}of{\kf6} {\kf39}Christ{\kf45}mas{\kf11}
+Dialogue: 0,0:00:14.47,0:00:20.89,Chorus English 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf33}{\be2}Its{\kf7} {\kf66}light{\kf8} {\kf24}ne{\kf47}ver{\kf5} {\kf83}fades{\kf0}
+Dialogue: 0,0:00:17.48,0:00:25.43,Chorus English 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf20}{\be2}All{\kf2} {\kf20}a{\kf36}round{\kf4} {\kf32}the{\kf5} {\kf38}world{\kf0} {\kf16}of{\kf0} {\kf21}E{\kf38}ques{\kf39}tri{\kf53}a{\kf0}
+Dialogue: 0,0:00:20.89,0:00:29.28,Chorus English 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf29}{\be2}Christ{\kf15}mas{\kf0} {\kf31}is{\kf0} {\kf59}here{\kf0} {\kf11}to{\kf0} {\kf178}stay{\kf0}
+Dialogue: 0,0:00:25.43,0:00:34.57,Twilight Sparkle English 1st Line,Twilight Sparkle,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf47}{\be2}Christ{\kf35}mas{\kf0} {\kf39}is{\kf0} {\kf25}a{\kf8} {\kf59}time{\kf3} {\kf20}of{\kf0} {\kf107}joy{\kf0}
+Dialogue: 0,0:00:29.28,0:00:38.36,Twilight Sparkle English 2nd Line,Twilight Sparkle,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf21}{\be2}When{\kf3} {\kf35}the{\kf0} {\kf62}light{\kf0} {\kf13}of{\kf12} {\kf21}friend{\kf29}ship{\kf17} {\kf69}burns{\kf5} {\kf125}brigh{\kf8}t
+Dialogue: 0,0:00:34.57,0:00:43.52,Applejack English 1st Line,Applejack,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf42}{\be2}Ta{\kf19}kin'{\kf11} {\kf33}time{\kf11} {\kf39}for{\kf0} {\kf59}fa{\kf20}mi{\kf65}ly{\kf0}
+Dialogue: 0,0:00:38.36,0:00:47.52,Applejack English 2nd Line,Applejack,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf21}{\be2}To{\kf4} {\kf29}re{\kf55}call{\kf10} {\kf15}the{\kf4} {\kf37}past{\kf6} {\kf30}and{\kf5} {\kf33}do{\kf3} {\kf28}what's{\kf3} {\kf109}right{\kf0}
+Dialogue: 0,0:00:43.52,0:00:52.68,Fluttershy English 1st Line,Fluttershy,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf16}{\be2}And{\kf4} {\kf25}out{\kf34}side{\kf9} {\kf40}gen{\kf20}tle{\kf0} {\kf24}s{\kf55}now{\kf4} {\kf13}is{\kf4} {\kf40}fall{\kf68}ing{\kf0}
+Dialogue: 0,0:00:47.52,0:00:56.48,Fluttershy English 2nd Line,Fluttershy,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf27}{\be2}Fo{\kf14}re{\kf10}st{\kf8} {\kf34}crea{\kf27}ture{\kf8}s{\kf5} {\kf39}kee{\kf57}ping{\kf0} {\kf49}warm{\kf9} {\kf18}be{\kf123}low{\kf0}
+Dialogue: 0,0:00:52.68,0:01:01.56,Chorus English 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf13}{\be2}And{\kf0} {\kf32}all{\kf11} {\kf36}through{\kf45}out{\kf0} {\kf30}E{\kf55}ques{\kf22}tri{\kf84}a{\kf0}
+Dialogue: 0,0:00:56.48,0:01:04.61,Chorus English 2nd Line,Fluttershy,0,0,0,,{\k100}{\fad(250,250)}{\kf13}{\be2}We{\kf3} {\kf23}feel{\kf3} {\kf32}the{\kf0} {\kf56}light{\kf0} {\kf21}of{\kf0} {\kf31}friend{\kf43}ship{\kf0} {\kf42}on{\kf27}ly{\kf11} {\kf136}grow{\kf0}
+Dialogue: 0,0:01:01.56,0:01:07.65,Chorus English 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf24}{\be2}It's{\kf0} {\kf5}a{\kf8} {\kf44}po{\kf23}ny{\kf6} {\kf37}kind{\kf0} {\kf28}of{\kf14} {\kf36}Christ{\kf42}mas{\kf0}
+Dialogue: 0,0:01:04.61,0:01:11.06,Chorus English 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf33}{\be2}Its{\kf7} {\kf66}light{\kf8} {\kf24}ne{\kf47}ver{\kf5} {\kf83}fades{\kf0}
+Dialogue: 0,0:01:07.65,0:01:15.57,Chorus English 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf19}{\be2}All{\kf0} {\kf20}a{\kf35}round{\kf7} {\kf30}the{\kf6} {\kf32}world{\kf5} {\kf15}of{\kf0} {\kf21}E{\kf34}ques{\kf44}tri{\kf49}a
+Dialogue: 0,0:01:11.06,0:01:17.80,Chorus English 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf29}{\be2}Christ{\kf15}mas{\kf0} {\kf31}is{\kf0} {\kf59}here{\kf0} {\kf11}to{\kf0} {\kf178}stay{\kf0}
+Dialogue: 0,0:01:15.57,0:01:21.49,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\k100}{\fad(250,250)}{\kf41}{\be2}Dash{\kf22}ing{\kf12} {\kf34}through{\kf5} {\kf19}the{\kf5} {\kf77}snow{\kf0}
+Dialogue: 0,0:01:17.80,0:01:24.46,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf27}{\be2}In{\kf13} {\kf22}a{\kf12} {\kf36}one{\kf0}-{\kf40}horse{\kf0} {\kf33}o{\kf27}pen{\kf0} {\kf86}sleigh{\kf0}
+Dialogue: 0,0:01:21.49,0:01:27.43,Rainbow Dash English 1st Line,Rainbow Dash,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf22}{\be2}O{\kf11}ver{\kf8} {\kf19}the{\kf12} {\kf36}fields{\kf0} {\kf41}we{\kf0} {\kf124}go{\kf0}
+Dialogue: 0,0:01:24.46,0:01:30.40,Rainbow Dash English 2nd Line,Rainbow Dash,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf38}{\be2}Lau{\kf36}ghing{\kf0} {\kf32}all{\kf8} {\kf37}the{\kf0} {\kf59}way{\kf0}
+Dialogue: 0,0:01:27.43,0:01:33.36,Rarity English 1st Line,Rarity,0,0,0,,{\k100}{\fad(250,250)}{\kf36}{\be2}De{\kf40}co{\kf26}rate{\kf11} {\kf19}with{\kf18} {\kf39}boughs{\kf0} {\kf29}of{\kf5} {\kf37}ho{\kf15}lly{\kf0}
+Dialogue: 0,0:01:30.40,0:01:36.24,Rarity English 2nd Line,Rarity,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf36}{\be2}Fill{\kf6} {\kf27}the{\kf6} {\kf32}halls{\kf5} {\kf23}with{\kf1} {\kf50}won{\kf82}der{\kf0}
+Dialogue: 0,0:01:33.36,0:01:39.20,Rarity English 1st Line,Rarity,0,0,0,,{\k100}{\fad(250,250)}{\kf34}{\be2}Wrap{\kf8} {\kf20}the{\kf7} {\kf43}pre{\kf36}sents{\kf0}, {\kf40}sil{\kf33}ver{\kf5} {\kf34}pa{\kf18}per{\kf0}
+Dialogue: 0,0:01:36.24,0:01:45.20,Rarity English 2nd Line,Rarity,0,0,0,,{\k100}{\fad(250,250)}{\kf49}{\be2}Trim {\kf25}the {\kf47}tree {\kf33}and {\kf40}place {\kf43}them {\kf30}un{\kf19}der{\kf0}
+Dialogue: 0,0:01:39.20,0:01:51.08,Pinkie Pie English 1st Line,Pinkie Pie,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf48}{\be2}Time{\kf0} {\kf35}for{\kf0} {\kf37}coun{\kf34}ting{\kf0} {\kf44}down{\kf0} {\kf36}the{\kf0} {\kf33}days{\kf7} {\kf30}to{\kf2} {\kf41}Christ{\kf209}ma{\kf14}s{\kf16}
+Dialogue: 0,0:01:45.20,0:01:56.68,Pinkie Pie English 2nd Line,Pinkie Pie,0,0,0,,{\k100}{\fad(250,250)}{\kf40}{\be2}E{\kf24}very{\kf9} {\kf33}day{\kf7} {\kf26}that{\kf7} {\kf29}pas{\kf52}ses{\kf1} {\kf29}is{\kf7} {\kf19}a{\kf16} {\kf37}par{\kf29}ty{\kf9} {\kf18}we{\kf20} {\kf52}can{\kf22} {\kf5}th{\kf87}row{\kf0}
+Dialogue: 0,0:01:51.08,0:02:02.60,Chorus English 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf40}{\be2}Time{\kf0} {\kf35}for{\kf0} {\kf37}coun{\kf34}ting{\kf0} {\kf44}down{\kf0} {\kf36}the{\kf0} {\kf33}days{\kf7} {\kf30}to{\kf2} {\kf41}Christ{\kf169}ma{\kf30}s{\kf0}
+Dialogue: 0,0:01:56.68,0:02:05.63,Chorus English 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf41}{\be2}And{\kf0} {\kf72}e{\kf72}very{\kf75}day{\kf0} {\kf68}our{\kf6} {\kf65}friend{\kf66}ship{\kf10} {\kf84}grow{\kf16}s{\kf0}
+Dialogue: 0,0:02:02.60,0:02:08.64,Chorus English 1st Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf24}{\be2}It's{\kf0} {\kf5}a{\kf8} {\kf44}po{\kf23}ny{\kf6} {\kf37}kind{\kf0} {\kf28}of{\kf14} {\kf36}Christ{\kf42}mas{\kf0}
+Dialogue: 0,0:02:05.63,0:02:11.94,Chorus English 2nd Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf27}{\be2}In{\kf8} {\kf38}e{\kf35}very{\kf0} {\kf26}co{\kf41}lor{\kf0} {\kf96}shade{\kf0}
+Dialogue: 0,0:02:08.64,0:02:14.77,Chorus English 1st Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf19}{\be2}All{\kf0} {\kf20}a{\kf35}round{\kf7} {\kf30}the{\kf6} {\kf32}world{\kf5} {\kf15}of{\kf0} {\kf21}E{\kf34}ques{\kf44}tri{\kf49}a
+Dialogue: 0,0:02:11.94,0:02:17.82,Chorus English 2nd Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf15}{\be2}It's{\kf4} {\kf23}Christ{\kf18}mas{\kf33}time{\kf4} {\kf51}here{\kf0} {\kf20}to{\kf82}day{\kf8}
+Dialogue: 0,0:02:14.77,0:02:20.90,Chorus English 1st Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf22}{\be2}It's{\kf0} {\kf8}a{\kf10} {\kf37}po{\kf30}ny{\kf6} {\kf32}kind{\kf5} {\kf32}of{\kf6} {\kf39}Christ{\kf45}mas{\kf11}
+Dialogue: 0,0:02:17.82,0:02:24.27,Chorus English 2nd Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf33}{\be2}Its{\kf7} {\kf66}light{\kf8} {\kf24}ne{\kf47}ver{\kf5} {\kf83}fades{\kf0}
+Dialogue: 0,0:02:20.90,0:02:26.92,Chorus English 1st Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf19}{\be2}All{\kf0} {\kf20}a{\kf35}round{\kf7} {\kf30}the{\kf6} {\kf32}world{\kf5} {\kf15}of{\kf0} {\kf21}E{\kf34}ques{\kf44}tri{\kf49}a
+Dialogue: 0,0:02:24.27,0:02:28.74,Chorus English 2nd Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf20}{\be2}Christ{\kf23}mas{\kf0} {\kf35}is{\kf0} {\kf169}here{\kf0}
+Dialogue: 0,0:02:26.92,0:02:32.60,Chorus English 1st Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf21}{\be2}To{\kf3} {\kf18}s{\kf326}tay{\kf0}
+Dialogue: 0,0:00:00.00,0:00:05.34,Chorus Mandarin 1st Line,Mane Six,0,0,0,,{\fad(250,250)}{\kf34}{\kf24}{\be2}小{\kf0}{\kf5}马{\kf8}{\kf44}们{\kf23}过{\kf6}{\kf37}的{\kf0}{\kf28}圣{\kf14}{\kf36}诞{\kf42}节{\kf0}
+Dialogue: 0,0:00:02.35,0:00:08.60,Chorus Mandarin 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf27}{\be2}到{\kf8}{\kf38}处{\kf35}色{\kf0}{\kf26}彩{\kf41}缤{\kf0}{\kf96}纷{\kf0}
+Dialogue: 0,0:00:05.34,0:00:11.44,Chorus Mandarin 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf19}{\be2}今{\kf0}{\kf20}天{\kf35}的{\kf7}{\kf30}小{\kf6}{\kf32}马{\kf5}{\kf15}国{\kf0}{\kf21}举{\kf34}国{\kf44}都{\kf50}在
+Dialogue: 0,0:00:08.60,0:00:14.47,Chorus Mandarin 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf15}{\be2}迎{\kf4}{\kf23}接{\kf18}圣{\kf33}诞{\kf4}{\kf51}节{\kf0}{\kf20}来{\kf82}临{\kf8}
+Dialogue: 0,0:00:11.44,0:00:17.48,Chorus Mandarin 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf22}{\be2}小{\kf0}{\kf8}马{\kf10}{\kf37}们{\kf30}过{\kf6}{\kf32}的{\kf5}{\kf32}圣{\kf6}{\kf39}诞{\kf45}节{\kf11}
+Dialogue: 0,0:00:14.47,0:00:20.89,Chorus Mandarin 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf33}{\be2}其{\kf7}{\kf66}光{\kf8}{\kf24}芒{\kf47}不{\kf5}{\kf83}灭{\kf0}
+Dialogue: 0,0:00:17.48,0:00:25.43,Chorus Mandarin 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf20}{\be2}今{\kf2}{\kf20}天{\kf36}的{\kf4}{\kf32}小{\kf5}{\kf38}马{\kf0}{\kf16}国{\kf0}{\kf21}举{\kf38}国{\kf39}欢{\kf53}庆{\kf0}
+Dialogue: 0,0:00:20.89,0:00:29.28,Chorus Mandarin 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf29}{\be2}圣{\kf15}诞{\kf0}{\kf31}节{\kf0}{\kf59}已{\kf0}{\kf11}到{\kf0}{\kf178}来{\kf0}
+Dialogue: 0,0:00:25.43,0:00:34.57,Twilight Sparkle Mandarin 1st Line,Twilight Sparkle,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf47}{\be2}圣{\kf35}诞{\kf0}{\kf39}节{\kf0}{\kf25}欢{\kf8}{\kf59}乐{\kf3}{\kf20}无{\kf0}{\kf107}比{\kf0}
+Dialogue: 0,0:00:29.28,0:00:38.36,Twilight Sparkle Mandarin 2nd Line,Twilight Sparkle,0,0,0,,{\k100}{\fad(250,250)}{\kf21}{\be2}因{\kf3}{\kf35}友{\kf62}谊{\kf13}之{\kf12}{\kf21}光{\kf29}闪{\kf17}{\kf69}烁{\kf5}{\kf125}着{\kf8}
+Dialogue: 0,0:00:34.57,0:00:43.52,Applejack Mandarin 1st Line,Applejack,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf42}{\be2}陪{\kf19}伴{\kf11}{\kf33}家{\kf11}{\kf39}人{\kf0}{\kf59}齐{\kf20}过{\kf65}节{\kf0}
+Dialogue: 0,0:00:38.36,0:00:47.52,Applejack Mandarin 2nd Line,Applejack,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf21}{\be2}回{\kf4}{\kf29}忆{\kf55}过{\kf10}{\kf15}去{\kf4}{\kf37}并{\kf6}{\kf30}以{\kf5}{\kf33}此{\kf3}{\kf28}为{\kf3}{\kf109}鉴{\kf0}
+Dialogue: 0,0:00:43.52,0:00:52.68,Fluttershy Mandarin 1st Line,Fluttershy,0,0,0,,{\k100}{\fad(250,250)}{\kf16}{\be2}看{\kf4}{\kf25}见{\kf34}门{\kf9}{\kf40}外{\kf44}正{\kf55}雪{\kf4}{\kf13}花{\kf4}{\kf40}飘{\kf68}飘{\kf460}
+Dialogue: 0,0:00:47.52,0:00:56.48,Fluttershy Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\fad(250,250)}{\kf27}{\be2}林{\kf24}中{\kf8}{\kf34}生{\kf35}物{\kf5}{\kf39}在{\kf57}地{\kf49}下{\kf9}{\kf18}取{\kf123}暖{\kf368}
+Dialogue: 0,0:00:52.68,0:01:01.56,Chorus Mandarin 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf13}{\be2}踏{\kf0}{\kf32}遍{\kf11}{\kf36}了{\kf45}小{\kf0}{\kf30}马{\kf55}国{\kf22}全{\kf84}境{\kf0}
+Dialogue: 0,0:00:56.48,0:01:04.61,Chorus Mandarin 2nd Line,Fluttershy,0,0,0,,{\k100}{\fad(250,250)}{\kf13}{\be2}感{\kf3}{\kf23}受{\kf3}{\kf32}到{\kf0}{\kf56}友{\kf0}{\kf21}谊{\kf0}{\kf31}之{\kf43}光{\kf0}{\kf42}渐{\kf27}明{\kf11}{\kf136}亮{\kf0}
+Dialogue: 0,0:01:01.56,0:01:07.65,Chorus Mandarin 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf24}{\be2}小{\kf0}{\kf5}马{\kf8}{\kf44}们{\kf23}过{\kf6}{\kf37}的{\kf0}{\kf28}圣{\kf14}{\kf36}诞{\kf42}节{\kf0}
+Dialogue: 0,0:01:04.61,0:01:11.06,Chorus Mandarin 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf33}{\be2}其{\kf7}{\kf66}光{\kf8}{\kf24}芒{\kf47}不{\kf5}{\kf83}灭{\kf0}
+Dialogue: 0,0:01:07.65,0:01:15.57,Chorus Mandarin 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf19}{\be2}今{\kf0}{\kf20}天{\kf35}的{\kf7}{\kf30}小{\kf6}{\kf32}马{\kf5}{\kf15}国{\kf0}{\kf21}举{\kf34}国{\kf44}欢{\kf49}庆
+Dialogue: 0,0:01:11.06,0:01:17.80,Chorus Mandarin 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf29}{\be2}圣{\kf15}诞{\kf0}{\kf31}节{\kf0}{\kf59}已{\kf0}{\kf11}到{\kf0}{\kf178}来{\kf0}
+Dialogue: 0,0:01:15.57,0:01:21.49,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\k100}{\fad(250,250)}{\kf41}{\be2}冲{\kf22}出{\kf12}{\kf34}大{\kf5}{\kf19}风{\kf5}{\kf77}雪{\kf0}
+Dialogue: 0,0:01:17.80,0:01:24.46,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\k100}{\fad(250,250)}{\kf27}{\be2}身{\kf13}{\kf22}后{\kf12}{\kf36}雪{\kf40}橇{\kf33}响{\kf27}叮{\kf86}当{\kf270}
+Dialogue: 0,0:01:21.49,0:01:27.43,Rainbow Dash Mandarin 1st Line,Rainbow Dash,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf22}{\be2}我{\kf11}们{\kf8}{\kf19}飞{\kf12}{\kf36}奔{\kf0}{\kf41}过{\kf0}{\kf124}田野{\kf0}
+Dialogue: 0,0:01:24.46,0:01:30.40,Rainbow Dash Mandarin 2nd Line,Rainbow Dash,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf38}{\be2}欢{\kf36}笑{\kf0}{\kf32}又{\kf8}{\kf37}歌{\kf0}{\kf59}唱{\kf0}
+Dialogue: 0,0:01:27.43,0:01:33.36,Rarity Mandarin 1st Line,Rarity,0,0,0,,{\k100}{\fad(250,250)}{\kf36}{\be2}用{\kf40}冬{\kf26}青{\kf11}{\kf19}的{\kf18}{\kf39}树{\kf0}{\kf29}枝{\kf5}{\kf37}装{\kf15}扮{\kf0}
+Dialogue: 0,0:01:30.40,0:01:36.24,Rarity Mandarin 2nd Line,Rarity,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf36}{\be2}大{\kf6}{\kf27}厅{\kf6}{\kf32}满{\kf5}{\kf23}是{\kf1}{\kf50}惊{\kf82}喜{\kf0}
+Dialogue: 0,0:01:33.36,0:01:39.20,Rarity Mandarin 1st Line,Rarity,0,0,0,,{\k100}{\fad(250,250)}{\kf34}{\be2}用{\kf8}{\kf20}镀{\kf7}{\kf43}银{\kf36}纸{\kf0}{\kf40}来{\kf33}包{\kf5}{\kf34}礼{\kf18}物{\kf0}
+Dialogue: 0,0:01:36.24,0:01:45.20,Rarity Mandarin 2nd Line,Rarity,0,0,0,,{\k100}{\fad(250,250)}{\kf49}{\be2}整{\kf25}理{\kf47}后{\kf33}并{\kf40}放{\kf43}在{\kf30}树{\kf19}下{\kf0}
+Dialogue: 0,0:01:39.20,0:01:51.08,Pinkie Pie Mandarin 1st Line,Pinkie Pie,0,0,0,,{\k100}{\fad(250,250)}{\kf48}{\be2}是{\kf35}时{\kf37}候{\kf34}该{\kf44}倒{\kf36}数{\kf33}圣{\kf7}{\kf30}诞{\kf2}{\kf41}节{\kf223}了{\kf518}
+Dialogue: 0,0:01:45.20,0:01:56.68,Pinkie Pie Mandarin 2nd Line,Pinkie Pie,0,0,0,,{\k100}{\fad(250,250)}{\kf40}{\be2}每{\kf24}过{\kf9}{\kf33}的{\kf7}{\kf26}一{\kf7}{\kf29}天{\kf52}都{\kf1}{\kf29}值{\kf7}{\kf19}得{\kf16}{\kf37}开{\kf29}派{\kf9}{\kf18}对{\kf20}{\kf52}庆{\kf22}{\kf92}祝{\kf470}
+Dialogue: 0,0:01:51.08,0:02:02.60,Chorus Mandarin 1st Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf40}{\be2}是{\kf35}时{\kf37}候{\kf34}该{\kf44}倒{\kf36}数{\kf33}圣{\kf7}{\kf30}诞{\kf2}{\kf41}节{\kf199}了{\kf514}
+Dialogue: 0,0:01:56.68,0:02:05.63,Chorus Mandarin 2nd Line,Mane Six,0,0,0,,{\k100}{\fad(250,250)}{\kf41}{\be2}我{\kf72}们{\kf72}加{\kf75}深{\kf68}彼{\kf6}{\kf65}此{\kf66}友{\kf10}{\kf100}谊{\kf220}
+Dialogue: 0,0:02:02.60,0:02:08.64,Chorus Mandarin 1st Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf24}{\be2}小{\kf0}{\kf5}马{\kf8}{\kf44}们{\kf23}过{\kf6}{\kf37}的{\kf0}{\kf28}圣{\kf14}{\kf36}诞{\kf42}节{\kf0}
+Dialogue: 0,0:02:05.63,0:02:11.94,Chorus Mandarin 2nd Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf27}{\be2}到{\kf8}{\kf38}处{\kf35}色{\kf0}{\kf26}彩{\kf41}缤{\kf0}{\kf96}纷{\kf0}
+Dialogue: 0,0:02:08.64,0:02:14.77,Chorus Mandarin 1st Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf19}{\be2}小{\kf0}{\kf20}马{\kf35}国{\kf7}{\kf30}举{\kf6}{\kf32}国{\kf5}{\kf15}都{\kf0}{\kf21}在{\kf34}欢{\kf44}庆{\kf49}着
+Dialogue: 0,0:02:11.94,0:02:17.82,Chorus Mandarin 2nd Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf15}{\be2}今{\kf4}{\kf23}天{\kf18}就{\kf33}是{\kf4}{\kf51}圣{\kf0}{\kf20}诞{\kf82}节{\kf8}
+Dialogue: 0,0:02:14.77,0:02:20.90,Chorus Mandarin 1st Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf22}{\be2}小{\kf0}{\kf8}马{\kf10}{\kf37}们{\kf30}过{\kf6}{\kf32}的{\kf5}{\kf32}圣{\kf6}{\kf39}诞{\kf45}节{\kf11}
+Dialogue: 0,0:02:17.82,0:02:24.27,Chorus Mandarin 2nd Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf33}{\be2}其{\kf7}{\kf66}光{\kf8}{\kf24}芒{\kf47}不{\kf5}{\kf83}灭{\kf0}
+Dialogue: 0,0:02:20.90,0:02:26.92,Chorus Mandarin 1st Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf19}{\be2}今{\kf0}{\kf20}天{\kf35}的{\kf7}{\kf30}小{\kf6}{\kf32}马{\kf5}{\kf15}国{\kf0}{\kf21}举{\kf34}国{\kf44}欢{\kf49}庆
+Dialogue: 0,0:02:24.27,0:02:28.74,Chorus Mandarin 2nd Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf0}{\kf20}{\be2}圣{\kf23}诞{\kf0}{\kf35}节{\kf0}{\kf169}已{\kf0}
+Dialogue: 0,0:02:26.92,0:02:32.60,Chorus Mandarin 1st Line,Mane Six and Choir,0,0,0,,{\k100}{\fad(250,250)}{\kf21}{\be2}到{\kf3}{\kf344}来{\kf100}
+Dialogue: 1,0:00:00.00,0:00:00.34,Overlay Screen,,0,0,0,,{\fad(0,340)}{\p1}m 0 0 l 1920 0 1920 1080 0 1080{\p0}
+Dialogue: 2,0:02:36.06,0:02:55.93,Overlay Screen,,0,0,0,,{\fad(1500,0)}{\p1\c&H000000&}m 0 0 l 1920 0 1920 1080 0 1080{\p0}
+Dialogue: 3,0:02:38.06,0:02:40.06,Staff Credit (Boardless),,0,0,0,,{\fad(200,200)}翻译\N{\fs95}蛟龙
+Dialogue: 3,0:02:40.07,0:02:42.07,Staff Credit (Boardless),,0,0,0,,{\fad(200,200)}校对\N{\fs95}森林金雨
+Dialogue: 3,0:02:42.08,0:02:44.08,Staff Credit (Boardless),,0,0,0,,{\fad(200,200)}润色\n{\fs95}蛟龙  森林金雨
+Dialogue: 3,0:02:44.09,0:02:46.09,Staff Credit (Boardless),,0,0,0,,{\fad(200,200)}时间轴\N{\fs95}BronyDee
+Dialogue: 3,0:02:46.10,0:02:48.10,Staff Credit (Boardless),,0,0,0,,{\fad(200,200)}制作\N{\fs95}习成 PBU 工作组
+Dialogue: 3,0:02:48.11,0:02:53.97,Staff Credit (Boardless),,0,0,0,,{\fad(100,0)}{\fs130}感谢观看

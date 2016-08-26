@@ -1,0 +1,95 @@
+﻿[Script Info]
+Title: Days Gone By
+ScriptType: v4.00+
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+Original Timing: BronyDee
+Original Script: 轮回
+Original Translation: 无敌超人  Leo Dango
+Script Updated By: 森林金雨
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Overlay Screen,Arial,20,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1
+Style: Applejack English 1st Line,Lucida Sans,60,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Applejack English 2nd Line,Lucida Sans,60,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Applejack Mandarin 1st Line,思源黑体 Heavy,80,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Applejack Mandarin 2nd Line,思源黑体 Heavy,80,&H0053B4FF,&H00363655,&H000D54E6,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Apple Bloom English 1st Line,Lucida Sans,60,&H0099F3F4,&H000B6B6C,&H005D3FF5,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Apple Bloom English 2nd Line,Lucida Sans,60,&H0099F3F4,&H000B6B6C,&H005D3FF5,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Apple Bloom Mandarin 1st Line,思源黑体 Heavy,80,&H0099F3F4,&H000B6B6C,&H005D3FF5,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Apple Bloom Mandarin 2nd Line,思源黑体 Heavy,80,&H0099F3F4,&H000B6B6C,&H005D3FF5,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Chorus English 1st Line,Lucida Sans,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Chorus English 2nd Line,Lucida Sans,60,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Chorus Mandarin 1st Line,思源黑体 Heavy,80,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,1,60,60,220,1
+Style: Chorus Mandarin 2nd Line,思源黑体 Heavy,80,&H0044DE4C,&H00565E6D,&H00115813,&H4B000000,0,0,0,0,100,100,0,0,1,4.5,0,3,60,60,60,1
+Style: Staff Credit (Boardless),思源黑体 Heavy,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:17.68,0:00:26.81,Applejack English 1st Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf24}When{\kf17} {\kf79}fa{\kf25}mi{\kf27}ly{\kf33} {\kf59}can{\kf71}not{\kf20} {\kf28}be {\kf38}here{\kf0}
+Dialogue: 0,0:00:22.11,0:00:31.49,Applejack English 2nd Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf30}Ha{\kf15}vin{\kf12}' {\kf84}jour{\kf18}neyed{\kf14} {\kf59}far{\kf2} {\kf46}and{\kf5} {\kf114}wide{\kf0}
+Dialogue: 0,0:00:26.81,0:00:36.47,Applejack English 1st Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf41}We{\kf12} {\kf45}sing{\kf39} {\kf25}a{\kf0} {\kf55}song{\kf11} {\kf41}to{\kf14} {\kf100}ho{\kf25}nor{\kf0} {\kf35}them{\kf0}
+Dialogue: 0,0:00:31.49,0:00:40.89,Applejack English 2nd Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf26}To{\kf6} {\kf31}re{\kf82}mem{\kf17}ber{\kf10} {\kf53}days{\kf8} {\kf50}gone{\kf6} {\kf91}by{\kf0}
+Dialogue: 0,0:00:36.47,0:00:45.60,Apple Bloom English 1st Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf20}So{\kf6} {\kf60}take{\kf37} {\kf18}your{\kf7} {\kf25}cup{\kf35} {\kf37}and{\kf25} {\kf82}raise{\kf0} {\kf20}it{\kf0} {\kf43}high{\kf0}
+Dialogue: 0,0:00:40.89,0:00:50.39,Apple Bloom English 2nd Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf32}Just{\kf0} {\kf16}as{\kf7} {\kf98}sure{\kf20}ly{\kf0} {\kf50}I'll{\kf6} {\kf58}do{\kf8} {\kf135}mine{\kf3}
+Dialogue: 0,0:00:45.60,0:00:54.97,Apple Bloom English 1st Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf56}And{\kf0} {\kf79}laugh{\kf14} {\kf21}we{\kf6} {\kf54}will{\kf3} {\kf37}at{\kf22} {\kf95}sto{\kf25}ries{\kf0} {\kf34}told{\kf0}
+Dialogue: 0,0:00:50.39,0:01:02.03,Apple Bloom English 2nd Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf29}As{\kf3} {\kf14}we{\kf0} {\kf91}smile{\kf0} {\kf26}at{\kf6} {\kf53}days{\kf7} {\kf57}gone{\kf0} {\kf106}by{\kf0}
+Dialogue: 0,0:00:54.97,0:01:06.77,Apple Bloom English 1st Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf29}As{\kf3} {\kf14}we{\kf0} {\kf91}smile{\kf0} {\kf26}at{\kf6} {\kf53}days{\kf7} {\kf57}gone{\kf0} {\kf106}by{\kf0}
+Dialogue: 0,0:01:02.03,0:01:11.47,Chorus English 2nd Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf55}For{\kf11} {\kf90}fa{\kf28}mi{\kf57}ly{\kf2} {\kf41}not{\kf15} {\kf87}here{\kf0}, {\kf31}my{\kf0} {\kf40}dears{\kf0}
+Dialogue: 0,0:01:06.77,0:01:16.22,Chorus English 1st Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf30}Ha{\kf15}vin{\kf12}' {\kf84}jour{\kf18}neyed{\kf14} {\kf59}far{\kf2} {\kf46}and{\kf5} {\kf114}wide{\kf0}
+Dialogue: 0,0:01:11.47,0:01:24.18,Chorus English 2nd Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf52}For{\kf10} {\kf85}lo{\kf29}yal{\kf60}ty{\kf0} {\kf55}and{\kf6} {\kf87}kind{\kf21}ness{\kf8} {\kf33}both{\kf0}
+Dialogue: 0,0:01:16.22,0:01:24.18,Chorus English 1st Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf34}We{\kf17} {\kf95}smile{\kf0} {\kf18}at{\kf8} {\kf61}days{\kf0} {\kf57}gone{\kf0} {\kf148}by{\kf0}
+Dialogue: 0,0:01:37.62,0:01:46.79,Applejack English 1st Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf24}Our{\kf17} {\kf66}paths{\kf13} {\kf20}will{\kf5} {\kf43}cross{\kf17} {\kf59}a{\kf57}gain{\kf34} {\kf21}one{\kf7} {\kf35}day{\kf0}
+Dialogue: 0,0:01:42.11,0:01:51.52,Applejack English 2nd Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf45}In{\kf12} {\kf84}time {\kf18}to{\kf14} {\kf59}re-{\kf48}u{\kf101}nite{\kf0}
+Dialogue: 0,0:01:46.79,0:01:56.43,Applejack English 1st Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf41}For{\kf12} {\kf45}fa{\kf39}{\kf25}mi{\kf55}ly{\kf11} {\kf41}is{\kf14} {\kf100}al{\kf25}ways{\kf0} {\kf35}near{\kf0}
+Dialogue: 0,0:01:51.52,0:02:00.85,Applejack English 2nd Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf27}E{\kf20}ven{\kf4} {\kf95}when{\kf0} {\kf18}the{\kf8} {\kf61}seas{\kf0} {\kf57}are{\kf0} {\kf122}wide{\kf0}
+Dialogue: 0,0:01:56.43,0:02:05.58,Apple Bloom English 1st Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf20}So{\kf6} {\kf60}take{\kf37} {\kf18}your{\kf7} {\kf25}cup{\kf35} {\kf37}and{\kf25} {\kf82}raise{\kf0} {\kf20}it{\kf0} {\kf43}high{\kf0}
+Dialogue: 0,0:02:00.85,0:02:10.33,Apple Bloom English 2nd Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf32}Just{\kf0} {\kf16}as{\kf7} {\kf98}sure{\kf20}ly{\kf0} {\kf50}I'll{\kf6} {\kf58}do{\kf8} {\kf135}mine{\kf3}
+Dialogue: 0,0:02:05.58,0:02:15.03,Apple Bloom English 1st Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf56}And{\kf0} {\kf79}make{\kf14} {\kf21}a{\kf6} {\kf54}toast{\kf3} {\kf37}for{\kf22} {\kf95}fa{\kf25}mi{\kf34}ly{\kf0}
+Dialogue: 0,0:02:10.33,0:02:19.71,Apple Bloom English 2nd Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf27}And {\kf20}the{\kf4} {\kf95}tales{\kf0} {\kf18}of{\kf8} {\kf61}days{\kf0} {\kf57}gone{\kf0} {\kf112}by{\kf0}
+Dialogue: 0,0:02:15.03,0:02:24.42,Chorus English 1st Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf55}For{\kf11} {\kf90}fa{\kf24}mi{\kf57}ly{\kf2} {\kf41}not{\kf15} {\kf87}here{\kf0}, {\kf31}my{\kf0} {\kf40}dears{\kf0}
+Dialogue: 0,0:02:19.71,0:02:29.13,Chorus English 2nd Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf30}Ha{\kf15}vin{\kf12}' {\kf84}jour{\kf18}neyed{\kf14} {\kf59}far{\kf2} {\kf46}and{\kf5} {\kf114}wide{\kf0}
+Dialogue: 0,0:02:24.42,0:02:33.84,Chorus English 1st Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf52}For{\kf10} {\kf85}lo{\kf29}yal{\kf60}ty{\kf0} {\kf55}and{\kf6} {\kf87}kind{\kf21}ness{\kf8} {\kf33}both{\kf0}
+Dialogue: 0,0:02:29.13,0:02:38.53,Chorus English 2nd Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf34}Take{\kf17} {\kf95}joy{\kf0} {\kf18}at{\kf8} {\kf61}days{\kf0} {\kf57}gone{\kf0} {\kf148}by{\kf0}
+Dialogue: 0,0:02:33.84,0:02:41.22,Chorus English 1st Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf52}For{\kf10} {\kf85}lo{\kf29}yal{\kf60}ty{\kf0} {\kf55}and{\kf6} {\kf87}kind{\kf21}ness{\kf8} {\kf33}both{\kf0}
+Dialogue: 0,0:02:38.53,0:02:47.15,Chorus English 2nd Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf34}We{\kf17} {\kf95}smile{\kf0} {\kf18}at{\kf8} {\kf61}days{\kf0} {\kf57}gone{\kf0} {\kf148}by{\kf0}
+Dialogue: 0,0:00:17.68,0:00:26.81,Applejack Mandarin 1st Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf24}亲{\kf17}{\kf79}人{\kf25}朋{\kf27}友{\kf33}{\kf59}  未{\kf71}能{\kf20}{\kf28}相{\kf38}见{\kf0}
+Dialogue: 0,0:00:22.11,0:00:31.49,Applejack Mandarin 2nd Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf30}仍{\kf15}旧{\kf12}{\kf84}还{\kf18}远{\kf14}{\kf59}行{\kf2}{\kf46}在{\kf5}{\kf114}外{\kf0}
+Dialogue: 0,0:00:26.81,0:00:36.47,Applejack Mandarin 1st Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf41}高{\kf12}{\kf45}声{\kf39}{\kf25}歌{\kf0}{\kf55}颂{\kf11}{\kf41}  一{\kf14}{\kf100}同{\kf25}怀{\kf0}{\kf35}念{\kf0}
+Dialogue: 0,0:00:31.49,0:00:40.89,Applejack Mandarin 2nd Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf26}回{\kf6}{\kf31}忆{\kf82}往{\kf17}日{\kf10}{\kf53}不{\kf8}{\kf50}复{\kf6}{\kf91}返{\kf0}
+Dialogue: 0,0:00:36.47,0:00:45.60,Apple Bloom Mandarin 1st Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf20}来{\kf6}{\kf60}吧{\kf37}{\kf18}朋{\kf7}{\kf25}友{\kf35}{\kf37}  高{\kf25}{\kf82}举{\kf0}{\kf20}酒{\kf0}{\kf43}杯{\kf0}
+Dialogue: 0,0:00:40.89,0:00:50.39,Apple Bloom Mandarin 2nd Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf32}只{\kf0}{\kf16}为{\kf7}{\kf98}个{\kf20}痛{\kf0}{\kf50}快{\kf6}{\kf58}开{\kf8}{\kf135}怀{\kf3}
+Dialogue: 0,0:00:45.60,0:00:54.97,Apple Bloom Mandarin 1st Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf56}津{\kf0}{\kf79}津{\kf14}{\kf21}乐{\kf6}{\kf54}道{\kf3}{\kf37}  往{\kf22}{\kf95}日{\kf25}故{\kf0}{\kf34}事{\kf0}
+Dialogue: 0,0:00:50.39,0:01:02.03,Apple Bloom Mandarin 2nd Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf29}笑{\kf3}{\kf14}对{\kf0}{\kf91}昔{\kf0}{\kf26}日{\kf6}{\kf53}不{\kf7}{\kf57}复{\kf0}{\kf106}返{\kf0}
+Dialogue: 0,0:00:54.97,0:01:06.77,Apple Bloom Mandarin 1st Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf29}笑{\kf3}{\kf14}对{\kf0}{\kf91}昔{\kf0}{\kf26}日{\kf6}{\kf53}不{\kf7}{\kf57}复{\kf0}{\kf106}返{\kf0}
+Dialogue: 0,0:01:02.03,0:01:11.47,Chorus Mandarin 2nd Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf55}亲{\kf11}{\kf90}人{\kf28}朋{\kf57}友{\kf2}{\kf41}  不{\kf15}{\kf87}在{\kf0}{\kf31}身{\kf0}{\kf40}边{\kf0}
+Dialogue: 0,0:01:06.77,0:01:16.22,Chorus Mandarin 1st Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf30}仍{\kf15}旧{\kf12}{\kf84}还{\kf18}远{\kf14}{\kf59}行{\kf2}{\kf46}在{\kf5}{\kf114}外{\kf0}
+Dialogue: 0,0:01:11.47,0:01:24.18,Chorus Mandarin 2nd Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf52}真{\kf10}{\kf85}诚{\kf29}和{\kf60}善{\kf0}{\kf55}  由{\kf6}{\kf87}衷{\kf21}笑{\kf8}{\kf33}面{\kf0}
+Dialogue: 0,0:01:16.22,0:01:24.18,Chorus Mandarin 1st Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf34}那{\kf17}{\kf95}往{\kf0}{\kf18}日{\kf8}{\kf61}不{\kf0}{\kf57}再{\kf0}{\kf148}还{\kf0}
+Dialogue: 0,0:01:37.62,0:01:46.79,Applejack Mandarin 1st Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf24}命{\kf17}{\kf66}运{\kf13}{\kf20}路{\kf5}{\kf43}上{\kf17}{\kf59}  终{\kf57}会{\kf34}{\kf21}相{\kf7}{\kf35}见{\kf0}
+Dialogue: 0,0:01:42.11,0:01:51.52,Applejack Mandarin 2nd Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf45}我{\kf12}{\kf84}们{\kf18}将{\kf14}{\kf59}再{\kf48}相{\kf101}会{\kf0}
+Dialogue: 0,0:01:46.79,0:01:56.43,Applejack Mandarin 1st Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf41}只{\kf12}{\kf45}因{\kf39}{\kf25}家{\kf55}人{\kf11}{\kf41}  终{\kf14}{\kf100}伴{\kf25}身{\kf0}{\kf35}旁{\kf0}
+Dialogue: 0,0:01:51.52,0:02:00.85,Applejack Mandarin 2nd Line,Applejack,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf27}又{\kf20}怎{\kf4}{\kf95}怕{\kf0}{\kf18}  远{\kf8}{\kf61}隔{\kf0}{\kf57}沧{\kf0}{\kf122}海{\kf0}
+Dialogue: 0,0:01:56.43,0:02:05.58,Apple Bloom Mandarin 1st Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf20}来{\kf6}{\kf60}吧{\kf37}{\kf18}朋{\kf7}{\kf25}友{\kf35}{\kf37}  高{\kf25}{\kf82}举{\kf0}{\kf20}酒{\kf0}{\kf43}杯{\kf0}
+Dialogue: 0,0:02:00.85,0:02:10.33,Apple Bloom Mandarin 2nd Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf32}只{\kf0}{\kf16}为{\kf7}{\kf98}个{\kf20}痛{\kf0}{\kf50}快{\kf6}{\kf58}开{\kf8}{\kf135}怀{\kf3}
+Dialogue: 0,0:02:05.58,0:02:15.03,Apple Bloom Mandarin 1st Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf56}举{\kf0}{\kf79}杯{\kf14}{\kf21}欢{\kf6}{\kf54}庆{\kf3}{\kf37}  祝{\kf22}{\kf95}福{\kf25}家{\kf34}人{\kf0}
+Dialogue: 0,0:02:10.33,0:02:19.71,Apple Bloom Mandarin 2nd Line,Applejack and Apple Bloom,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf27}和{\kf20}那{\kf4}{\kf95}往{\kf0}{\kf18}日{\kf8}{\kf61}不{\kf0}{\kf57}复{\kf0}{\kf112}还{\kf0}
+Dialogue: 0,0:02:15.03,0:02:24.42,Chorus Mandarin 1st Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf55}亲{\kf11}{\kf90}人{\kf24}朋{\kf57}友{\kf2}{\kf41}  不{\kf15}{\kf87}在{\kf0}{\kf31}身{\kf0}{\kf40}边{\kf0}
+Dialogue: 0,0:02:19.71,0:02:29.13,Chorus Mandarin 2nd Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf30}仍{\kf15}旧{\kf12}{\kf84}还{\kf18}远{\kf14}{\kf59}行{\kf2}{\kf46}在{\kf5}{\kf114}外{\kf0}
+Dialogue: 0,0:02:24.42,0:02:33.84,Chorus Mandarin 1st Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf52}真{\kf10}{\kf85}诚{\kf29}和{\kf60}善{\kf0}{\kf55} 由{\kf6}{\kf87}衷{\kf21}笑{\kf8}{\kf33}面{\kf0}
+Dialogue: 0,0:02:29.13,0:02:38.53,Chorus Mandarin 2nd Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf34}那{\kf17}{\kf95}昔{\kf0}{\kf18}日{\kf8}{\kf61}不{\kf0}{\kf57}再{\kf0}{\kf148}还{\kf0}
+Dialogue: 0,0:02:33.84,0:02:41.22,Chorus Mandarin 1st Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf52}真{\kf10}{\kf85}诚{\kf29}和{\kf60}善{\kf0}{\kf55}  由{\kf6}{\kf87}衷{\kf21}笑{\kf8}{\kf33}面{\kf0}
+Dialogue: 0,0:02:38.53,0:02:47.15,Chorus Mandarin 2nd Line,Applejack; Apple Bloom and Granny Smith,0,0,0,,{\be3}{\fad(250,250)}{\k150}{\kf0}{\kf34}那{\kf17}{\kf95}往{\kf0}{\kf18}日{\kf8}{\kf61}不{\kf0}{\kf57}再{\kf0}{\kf148}来{\kf0}
+Dialogue: 2,0:02:47.78,0:02:49.78,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}翻译\N{\fs95}轮回
+Dialogue: 2,0:02:49.78,0:02:51.79,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}润色\N{\fs95}无敌超人  Leo Dango
+Dialogue: 2,0:02:51.79,0:02:53.79,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}校对\N{\fs95}森林金雨  Loadhe
+Dialogue: 2,0:02:53.79,0:02:55.79,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}背景图绘制\N{\fs95}Luka
+Dialogue: 2,0:02:55.80,0:02:57.80,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}时间轴\N{\fs95}BronyDee  Loadhe
+Dialogue: 2,0:02:57.81,0:02:59.81,Staff Credit (Boardless),,0,0,0,,{\fad(250,250)}制作\N{\fs95}习成 PBU 工作组
+Dialogue: 2,0:02:59.82,0:04:01.19,Staff Credit (Boardless),,0,0,0,,{\fad(150,0)}{\fs130}感谢观看
+Dialogue: 1,0:02:45.78,0:04:01.19,Overlay Screen,,0,0,0,,{\fad(1000,0)}{\p1}m 0 0 l 1920 0 1920 1080 0 1080{\p0}
+Dialogue: 1,0:00:00.00,0:00:00.50,Overlay Screen,,0,0,0,,{\fad(0,500)}{\p1\c&HFFFFFF&}m 0 0 l 1920 0 1920 1080 0 1080{\p0}
